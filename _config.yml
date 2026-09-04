@@ -1,0 +1,108 @@
+title: "Small Space Signal"
+subtitle: "Practical guides for compact homes"
+name: "Small Space Signal"
+description: >-
+  Independent, criteria-first guides for renters and compact-home dwellers
+  choosing practical storage, organization, workspace, and home products.
+url: "https://yichuuuu.github.io"
+baseurl: "/small-space-signal"
+repository: "Yichuuuu/small-space-signal"
+locale: "en-US"
+timezone: "America/Chicago"
+
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+minimal_mistakes_skin: "default"
+
+logo: "/favicon.svg"
+masthead_title: "Small Space Signal"
+breadcrumbs: true
+search: true
+search_full_content: true
+search_provider: lunr
+words_per_minute: 210
+enable_copy_code_button: false
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+permalink: pretty
+include:
+  - _pages
+exclude:
+  - scripts
+  - migration-report.json
+  - README.md
+  - node_modules
+  - vendor
+
+collections:
+  guides:
+    output: true
+    permalink: /articles/:path.html
+
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+feed:
+  collections:
+    guides:
+      path: "/feed.xml"
+    posts:
+      path: "/feed/posts.xml"
+
+author:
+  name: "Yichu"
+  bio: "Editor of Small Space Signal."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://yichuuuu.github.io/small-space-signal/"
+
+social:
+  type: "Person"
+  name: "Yichu"
+  links: []
+
+atom_feed:
+  hide: true
+
+footer:
+  links: []
+
+defaults:
+  - scope:
+      path: ""
+      type: guides
+    values:
+      layout: single
+      classes: guide-page
+      author_profile: false
+      read_time: true
+      show_date: true
+      share: true
+      toc: true
+      toc_sticky: true
+      toc_label: "In this guide"
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      classes: info-page
+      author_profile: false
+
+category_archive:
+  type: liquid
+  path: /categories/
+
+tag_archive:
+  type: liquid
+  path: /tags/
+
+sitemap: true

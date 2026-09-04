@@ -1,0 +1,7 @@
+main:
+  - title: "Guides"
+    url: "/#guides"
+  - title: "About"
+    url: "/about.html"
+  - title: "Disclosure"
+    url: "/affiliate-disclosure.html"
