@@ -3,7 +3,7 @@ title: "Under-bed storage: bins, bags, or drawers?"
 description: "Compare under-bed bins, zippered bags, drawers, and vacuum bags by access, dust protection, and fit."
 excerpt: "Clearance tells you what physically fits. Access frequency, flooring, dust, and moving habits determine what will remain useful."
 date: 2026-08-30
-last_modified_at: 2026-08-30
+last_modified_at: 2026-09-04
 author: "Yichu"
 permalink: /articles/under-bed-storage.html
 category: "Storage"
@@ -34,6 +34,28 @@ toc_label: "In this guide"
 <p>Next, measure from the bed edge to the center support. Many product listings show total length, but only half that length may fit from one side. Note rugs, nightstands, and walls that prevent a long bin from being pulled straight out.</p>
 
 <table><thead><tr><th>Format</th><th>Best for</th><th>Main tradeoff</th></tr></thead><tbody><tr><td>Rigid lidded bin</td><td>Dust protection and stackable off-season storage</td><td>Needs precise clearance and open floor to pull out</td></tr><tr><td>Zippered fabric bag</td><td>Soft textiles and irregular spaces</td><td>Can sag, snag, and collect dust on fabric surfaces</td></tr><tr><td>Wheeled drawer</td><td>Weekly access</td><td>Wheels dislike thick rugs and may drift on hard floors</td></tr><tr><td>Vacuum bag</td><td>Compressible seasonal bedding</td><td>Poor for frequent access; seals can slowly admit air</td></tr></tbody></table>
+
+<h2>A shoe-storage option to check against your measurements</h2>
+
+<aside class="decision-box" aria-labelledby="shoe-storage-pick">
+<p class="section-label">Product to consider</p>
+<h3 id="shoe-storage-pick">ONLYEASY under-bed shoe organizers, set of 2</h3>
+
+<p>If shoes are taking over the bedroom floor, a pair of low-profile organizers can put an unused area to work. This is an option for keeping shoes together when you have room to pull each organizer fully out and open it.</p>
+
+<ul>
+<li><strong>Listed size:</strong> 29.3 × 23.6 × 5.9 inches per organizer. Confirm the selected size and variation on the listing before ordering.</li>
+<li><strong>Check the fit:</strong> Allow space above the listed 5.9-inch height for easy sliding. Measure the opening under the mattress's normal load, the distance to center supports, and the floor space needed to pull the organizer out.</li>
+<li><strong>Best use:</strong> A dedicated place for clean, dry shoes when the closet is short on space. Check the compartment measurements against your own shoes, especially larger sizes.</li>
+<li><strong>Choose another format if:</strong> You need a rigid, stackable container, have very little room beside the bed, or want to reach shoes without pulling the organizer out.</li>
+</ul>
+
+<p><small>As an Amazon Associate I earn from qualifying purchases. This is an affiliate link; we may earn a commission at no extra cost to you.</small></p>
+
+<p><a class="text-link" href="https://amzn.to/4xc3hyT" rel="sponsored nofollow">Check the ONLYEASY organizers on Amazon&nbsp;→</a></p>
+
+<p><small>Selected for its fit with this guide. Dimensions are from the product listing; we have not tested this organizer hands-on.</small></p>
+</aside>
 
 <h2>Match the container to the retrieval schedule</h2>
 
