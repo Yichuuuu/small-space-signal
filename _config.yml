@@ -7,6 +7,7 @@ description: >-
 url: "https://yichuuuu.github.io"
 baseurl: "/small-space-signal"
 repository: "Yichuuuu/small-space-signal"
+copyright_url: "https://yichuuuu.github.io/small-space-signal/"
 locale: "en-US"
 timezone: "America/Chicago"
 
