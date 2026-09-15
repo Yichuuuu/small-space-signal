@@ -261,6 +261,24 @@ a:hover {
   font-size: 1.02rem;
 }
 
+/* Keep product-guide navigation in the reading column at every screen size. */
+.product-guide .page {
+  float: none;
+  width: 100%;
+  max-width: 46rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.product-guide .sidebar__right {
+  position: static;
+  float: none;
+  right: auto;
+  width: auto;
+  margin: 0 0 2rem;
+  padding-left: 0;
+}
+
 .page__content h2 {
   margin-top: 2.8rem;
   padding-bottom: 0.3rem;

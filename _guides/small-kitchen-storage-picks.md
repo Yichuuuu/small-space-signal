@@ -16,13 +16,13 @@ tags:
 original_read_time: "6 minute read"
 featured: true
 layout: single
-classes: guide-page
+classes: guide-page product-guide
 author_profile: false
 read_time: true
 show_date: true
 share: true
 toc: true
-toc_sticky: true
+toc_sticky: false
 toc_label: "In this guide"
 ---
 
