@@ -1,0 +1,42 @@
+schema_version: 1
+tracking_id: smallspace09b-20
+products:
+  - asin: B07VBJ5MSH
+    name: "ONLYEASY under-bed shoe organizers, set of 2"
+    version: "29.3 x 23.6 x 5.9 inches per organizer"
+    first_published: 2026-09-04
+    batch: "manual-2026-09-04"
+    guide: /articles/under-bed-storage.html
+    anchor: shoe-storage-pick
+    affiliate_url: https://amzn.to/4xc3hyT
+    source_url: https://www.amazon.com/dp/B07VBJ5MSH
+  - asin: B072R6CLRC
+    name: "Joseph Joseph DrawerStore compact cutlery organizer"
+    version: "Small / Gray, model 85119"
+    first_published: 2026-09-15
+    batch: "manual-2026-09-15-kitchen"
+    guide: /articles/small-kitchen-storage-picks.html
+    anchor: drawerstore-pick
+    affiliate_url: https://www.amazon.com/dp/B072R6CLRC/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B072R6CLRC
+    manufacturer_source: https://www.josephjoseph.com/products/drawerstore-compact-cutlery-organiser-grey
+  - asin: B07FNRXFTD
+    name: "YouCopia StoraLid container lid organizer"
+    version: "Large Classic, White, model 50100"
+    first_published: 2026-09-15
+    batch: "manual-2026-09-15-kitchen"
+    guide: /articles/small-kitchen-storage-picks.html
+    anchor: storalid-pick
+    affiliate_url: https://www.amazon.com/dp/B07FNRXFTD/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B07FNRXFTD
+    manufacturer_source: https://youcopia.zendesk.com/hc/en-us/articles/360002497451-StoraLid-Lid-Organizer-FAQ
+    fit_note: "Amazon title and bullets have slightly different footprint dimensions; guide uses a conservative clearance and discloses this."
+  - asin: B07R27GK4J
+    name: "YouCopia StoreMore Pan + Lid Rack"
+    version: "12-inch Classic, model 50312"
+    first_published: 2026-09-15
+    batch: "manual-2026-09-15-kitchen"
+    guide: /articles/small-kitchen-storage-picks.html
+    anchor: storemore-pick
+    affiliate_url: https://www.amazon.com/dp/B07R27GK4J/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B07R27GK4J

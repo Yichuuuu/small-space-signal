@@ -3,7 +3,7 @@ title: "A pantry system for one narrow cabinet"
 description: "Organize a narrow pantry cabinet using visibility, shelf depth, package turnover, and safe storage zones."
 excerpt: "The goal is not to transfer every package into matching containers. It is to see what you have, reach it safely, and replenish without creating duplicates."
 date: 2026-08-27
-last_modified_at: 2026-08-27
+last_modified_at: 2026-09-15
 author: "Yichu"
 permalink: /articles/narrow-pantry.html
 category: "Kitchen"
@@ -58,5 +58,7 @@ toc_label: "In this guide"
 </aside>
 
 <h2>Start with a seven-day test</h2>
+
+<p>For specific cutlery, container-lid, and cookware options, see <a href="{{ '/articles/small-kitchen-storage-picks.html' | relative_url }}">three small-kitchen organizers with model-specific fit checks</a>. These solve different access problems; choose only what your measurements support.</p>
 
 <p>Return the grouped food to the cabinet without new containers and live with the zones for a week. Notice where items become hidden and which categories overflow. Then buy the minimum organizer that fixes that repeated problem. A pantry designed from observed use will stay organized longer than one designed from a matching set.</p>
