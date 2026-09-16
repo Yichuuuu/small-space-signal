@@ -40,3 +40,33 @@ products:
     anchor: storemore-pick
     affiliate_url: https://www.amazon.com/dp/B07R27GK4J/ref=nosim?tag=smallspace09b-20
     source_url: https://www.amazon.com/dp/B07R27GK4J
+  - asin: B0797B4NJQ
+    name: "Joseph Joseph EasyStore compact toothbrush caddy"
+    version: "Grey/White (Light Gray), Regular, model 70509"
+    first_published: 2026-09-16
+    batch: "scheduled-2026-09-16-1800-America-Chicago"
+    guide: /articles/small-bathroom-storage-picks.html
+    anchor: easystore-pick
+    affiliate_url: https://www.amazon.com/dp/B0797B4NJQ/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B0797B4NJQ
+    manufacturer_source: https://us.josephjoseph.com/products/easystore-toothbrush-holder-light-gray
+  - asin: B01C60C4FU
+    name: "Command large satin nickel bath double hook"
+    version: "One hook, one water-resistant strip; BATH36-SN-ES / BATH36-SNESAZ"
+    first_published: 2026-09-16
+    batch: "scheduled-2026-09-16-1800-America-Chicago"
+    guide: /articles/small-bathroom-storage-picks.html
+    anchor: command-pick
+    affiliate_url: https://www.amazon.com/dp/B01C60C4FU/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B01C60C4FU
+    manufacturer_source: https://www.command.com/3M/en_US/p/d/b5005604010/
+  - asin: B0DVGTNQHL
+    name: "Yamazaki slim rolling bathroom organizer"
+    version: "Black, Tower collection, model 1490"
+    first_published: 2026-09-16
+    batch: "scheduled-2026-09-16-1800-America-Chicago"
+    guide: /articles/small-bathroom-storage-picks.html
+    anchor: rolling-cart-pick
+    affiliate_url: https://www.amazon.com/dp/B0DVGTNQHL/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B0DVGTNQHL
+    manufacturer_source: https://theyamazakihome.com/products/tower-slim-rolling-bathroom-organizer
