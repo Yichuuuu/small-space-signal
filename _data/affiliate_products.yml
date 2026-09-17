@@ -100,3 +100,35 @@ products:
     anchor: ugreen-pick
     affiliate_url: https://www.amazon.com/dp/B0DXDVLV4W/ref=nosim?tag=smallspace09b-20
     source_url: https://www.amazon.com/dp/B0DXDVLV4W
+  - asin: B01I58T4ZK
+    name: "Umbra Estique over-the-door organizer"
+    version: "White/Natural, 14 hooks, model 1004045-660"
+    first_published: 2026-09-17
+    batch: "scheduled-2026-09-17-1800-America-Chicago"
+    guide: /articles/small-entryway-storage-picks.html
+    anchor: estique-pick
+    affiliate_url: https://www.amazon.com/dp/B01I58T4ZK/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B01I58T4ZK
+    manufacturer_source: https://www.umbra.com/products/estique-over-the-door-organizer
+    fit_note: "Umbra lists both 1.5-inch and 1.6-inch door limits. Guide discloses this, uses 1.5 inches conservatively, and requires bracket/top-gap checks. The 5 lb per-hook rating is not multiplied into a total door capacity."
+  - asin: B0154HAWHE
+    name: "Yamazaki Smart magnetic key rack with tray"
+    version: "White steel, six hooks, model 2754"
+    first_published: 2026-09-17
+    batch: "scheduled-2026-09-17-1800-America-Chicago"
+    guide: /articles/small-entryway-storage-picks.html
+    anchor: key-rack-pick
+    affiliate_url: https://www.amazon.com/dp/B0154HAWHE/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B0154HAWHE
+    manufacturer_source: https://theyamazakihome.com/products/smart-magnetic-key-holder?variant=17444324540467
+  - asin: B008F0SZUY
+    name: "Yamazaki Frame expandable and stackable shoe rack"
+    version: "Black, single-tier 7-inch-high rack; manufacturer SKU 7210, Amazon model field 7209-P"
+    first_published: 2026-09-17
+    batch: "scheduled-2026-09-17-1800-America-Chicago"
+    guide: /articles/small-entryway-storage-picks.html
+    anchor: shoe-rack-pick
+    affiliate_url: https://www.amazon.com/dp/B008F0SZUY/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B008F0SZUY
+    manufacturer_source: https://theyamazakihome.com/products/frame-stackable-shoe-rack?variant=17444340269107
+    fit_note: "Uses the US manufacturer's conservative 16.1-27.25-inch width description; other fields give roughly 27.5-27.6 inches maximum. Guide flags the difference, requires shoe-overhang clearance, and limits stacking to two units with clips."
