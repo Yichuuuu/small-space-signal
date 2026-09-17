@@ -70,3 +70,33 @@ products:
     affiliate_url: https://www.amazon.com/dp/B0DVGTNQHL/ref=nosim?tag=smallspace09b-20
     source_url: https://www.amazon.com/dp/B0DVGTNQHL
     manufacturer_source: https://theyamazakihome.com/products/tower-slim-rolling-bathroom-organizer
+  - asin: B000OOYECC
+    name: "Rain Design mStand laptop stand"
+    version: "Silver, fixed-base mStand, model 10032"
+    first_published: 2026-09-17
+    batch: "scheduled-2026-09-17-0600-America-Chicago"
+    guide: /articles/small-desk-organization-picks.html
+    anchor: mstand-pick
+    affiliate_url: https://www.amazon.com/dp/B000OOYECC/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B000OOYECC
+    manufacturer_source: https://raindesigninc.com/products/mstand
+    fit_note: "Guide uses the manufacturer's 10 x 7.5-inch base and 5.9-inch height, not Amazon's separate item-dimensions field. Allow additional laptop overhang and connector clearance."
+  - asin: B001E1Y5O6
+    name: "VELCRO Brand ONE-WRAP thin cable ties"
+    version: "Black, 100-pack, 8 x 0.5 inches, model 91140"
+    first_published: 2026-09-17
+    batch: "scheduled-2026-09-17-0600-America-Chicago"
+    guide: /articles/small-desk-organization-picks.html
+    anchor: one-wrap-pick
+    affiliate_url: https://www.amazon.com/dp/B001E1Y5O6/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B001E1Y5O6
+    manufacturer_source: https://www.velcro.com/products/electronics-organization/one-wrap-ties/
+  - asin: B0DXDVLV4W
+    name: "UGREEN magnetic cable organizer clips"
+    version: "Black, six-pack, model 65995, listed 0.3-inch cable slot"
+    first_published: 2026-09-17
+    batch: "scheduled-2026-09-17-0600-America-Chicago"
+    guide: /articles/small-desk-organization-picks.html
+    anchor: ugreen-pick
+    affiliate_url: https://www.amazon.com/dp/B0DXDVLV4W/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B0DXDVLV4W
