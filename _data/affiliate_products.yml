@@ -132,3 +132,35 @@ products:
     source_url: https://www.amazon.com/dp/B008F0SZUY
     manufacturer_source: https://theyamazakihome.com/products/frame-stackable-shoe-rack?variant=17444340269107
     fit_note: "Uses the US manufacturer's conservative 16.1-27.25-inch width description; other fields give roughly 27.5-27.6 inches maximum. Guide flags the difference, requires shoe-overhang clearance, and limits stacking to two units with clips."
+  - asin: B0BS19PG6M
+    name: "Joseph Joseph Hold-All collapsible laundry basket"
+    version: "Gray/Grey, 35L, model 50023"
+    first_published: 2026-09-18
+    batch: "scheduled-2026-09-18-0600-America-Chicago"
+    guide: /articles/small-space-laundry-picks.html
+    anchor: hold-all-pick
+    affiliate_url: https://www.amazon.com/dp/B0BS19PG6M/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B0BS19PG6M
+    manufacturer_source: https://us.josephjoseph.com/products/hold-all-collapsible-laundry-basket-gray
+    fit_note: "Uses current manufacturer dimensions, also present in Amazon feature bullets: open 53 x 36 x 25 cm, flat 53 x 36 x 2 cm; maximum load 9 kg. Does not use the smaller Amazon overview dimensions or its conflicting care attributes; directs readers to the care label."
+  - asin: B00H7P1GPO
+    name: "Amazon Basics foldable laundry rack"
+    version: "White, accordion-style steel rack, model WIGAR-012"
+    first_published: 2026-09-18
+    batch: "scheduled-2026-09-18-0600-America-Chicago"
+    guide: /articles/small-space-laundry-picks.html
+    anchor: accordion-rack-pick
+    affiliate_url: https://www.amazon.com/dp/B00H7P1GPO/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B00H7P1GPO
+    fit_note: "Open 29.5 inches wide x 14.5 inches deep x 41.8 inches high; 32 lb total load limit; indoor use. No unverified folded dimensions are quoted; readers must confirm them for a particular storage gap."
+  - asin: B006LIW9OU
+    name: "OXO Good Grips Folding Sweater Dryer"
+    version: "White, single mesh drying rack, model 1327780"
+    first_published: 2026-09-18
+    batch: "scheduled-2026-09-18-0600-America-Chicago"
+    guide: /articles/small-space-laundry-picks.html
+    anchor: sweater-dryer-pick
+    affiliate_url: https://www.amazon.com/dp/B006LIW9OU/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B006LIW9OU
+    manufacturer_source: https://www.oxo.com/shop/cleaning-organization/folding-sweater-dryer.html
+    fit_note: "OXO lists open 26 x 26 x 4.5 inches and closed 19 x 8 x 2.5 inches. No drying-time, shape-protection, or weight-capacity guarantee is inferred."
