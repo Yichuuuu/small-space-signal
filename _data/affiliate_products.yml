@@ -195,3 +195,36 @@ products:
     source_url: https://www.amazon.com/dp/B00LM34YXS
     manufacturer_source: https://www.lynkinc.com/product/142061/
     fit_note: "Research URL B086B76YMF redirected to B00LM34YXS; the final ASIN was then verified directly. Manufacturer overall size 2.1 inches wide x 8.4 inches deep x 13 inches high; solid shelves up to 7/8 inch thick. Distinguishes overall height from the listing's 12-inch divider-height bullet."
+  - asin: B00AVWE6O8
+    name: "Joseph Joseph Wash&Drain washing-up bowl"
+    version: "White/Green, one bowl with straining plug, model 85055"
+    first_published: 2026-09-19
+    batch: "scheduled-2026-09-19-0600-America-Chicago"
+    guide: /articles/small-kitchen-sink-picks.html
+    anchor: washdrain-pick
+    affiliate_url: https://www.amazon.com/dp/B00AVWE6O8/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B00AVWE6O8
+    manufacturer_source: https://us.josephjoseph.com/products/washdrain-washingup-bowl-white-green
+    fit_note: "Manufacturer lists W31 x D30 x H20 cm / W12.25 x D12 x H8 inches; current Amazon bullet instead gives 12.4 x 12.2 x 7.5 inches. Guide flags this and requires clearance beyond the larger measurements. Gray B00AVWE7O2 and Stone B0BB31VF4M are color variants, not future new-product candidates."
+  - asin: B01I58U5G2
+    name: "Umbra UDry Mini dish drying rack with mat"
+    version: "Charcoal/Dark Grey, Mini 20 x 13 inches, model 1004301-149"
+    first_published: 2026-09-19
+    batch: "scheduled-2026-09-19-0600-America-Chicago"
+    guide: /articles/small-kitchen-sink-picks.html
+    anchor: udry-mini-pick
+    affiliate_url: https://www.amazon.com/dp/B01I58U5G2/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B01I58U5G2
+    manufacturer_source: https://www.umbra.com/products/udry-mini-drying-mat
+    fit_note: "Discovery URL B0HBCSVGSR redirected to B01I58U5G2, then verified directly. Manufacturer lists 20 x 13 x 1.75 inches and Amazon size selector confirms 20 x 13. Guide flags conflicting 14.5 x 9 x 7-inch overview; no uncorroborated 20 kg capacity, folded dimensions, or drying time is claimed."
+  - asin: B01MUXUSJO
+    name: "OXO Good Grips Sinkware Caddy"
+    version: "White plastic, one caddy, model 13199900"
+    first_published: 2026-09-19
+    batch: "scheduled-2026-09-19-0600-America-Chicago"
+    guide: /articles/small-kitchen-sink-picks.html
+    anchor: sink-caddy-pick
+    affiliate_url: https://www.amazon.com/dp/B01MUXUSJO/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B01MUXUSJO
+    manufacturer_source: https://www.oxo.com/sinkware-caddy.html
+    fit_note: "OXO lists 5.6 x 3.8 x 5.5 inches; Amazon gives W5.87 x D3.82 x H5.47 inches. Guide states both and suggests roughly 6 x 4 inches for planning before adding clearance. Removable drip tray requires emptying; no plumbed drainage or hygiene guarantee is implied."
