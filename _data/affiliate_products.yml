@@ -228,3 +228,36 @@ products:
     source_url: https://www.amazon.com/dp/B01MUXUSJO
     manufacturer_source: https://www.oxo.com/sinkware-caddy.html
     fit_note: "OXO lists 5.6 x 3.8 x 5.5 inches; Amazon gives W5.87 x D3.82 x H5.47 inches. Guide states both and suggests roughly 6 x 4 inches for planning before adding clearance. Removable drip tray requires emptying; no plumbed drainage or hygiene guarantee is implied."
+  - asin: B0C79G7XBY
+    name: "YouCopia ShelfBin Packet Organizer"
+    version: "Speckled White, four-tier Packet Organizer, part 50844, one divided bin"
+    first_published: 2026-09-19
+    batch: "scheduled-2026-09-19-1800-America-Chicago"
+    guide: /articles/small-pantry-storage-picks.html
+    anchor: shelfbin-pick
+    affiliate_url: https://www.amazon.com/dp/B0C79G7XBY/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B0C79G7XBY
+    manufacturer_source: https://youcopia.com/products/shelfbin-packet-organizer
+    fit_note: "Amazon and manufacturer agree on 10.7 inches deep x 6.5 wide x 5.2 high. Four compartments and built-in handle; no tools required. Hand-wash only. Overall dimensions are not individual compartment measurements."
+  - asin: B000WJQGMU
+    name: "OXO Good Grips 11-inch Turntable"
+    version: "White, 11-inch Lazy Susan Turntable, model 1071352, one unit"
+    first_published: 2026-09-19
+    batch: "scheduled-2026-09-19-1800-America-Chicago"
+    guide: /articles/small-pantry-storage-picks.html
+    anchor: turntable-pick
+    affiliate_url: https://www.amazon.com/dp/B000WJQGMU/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B000WJQGMU
+    manufacturer_source: https://www.oxo.com/11-turntable.html
+    fit_note: "Manufacturer lists 11 x 11 x 1.5 inches and model 1071352; Amazon confirms model and 11-inch diameter. Needs additional loaded-height and hand-access clearance. No weight limit or universal surface-protection claim is made."
+  - asin: B077VHT7H2
+    name: "OXO Good Grips POP Container, 2.7-qt Rectangle"
+    version: "White lid and clear body, 2.7-qt / 2.6-liter Rectangle, one container"
+    first_published: 2026-09-19
+    batch: "scheduled-2026-09-19-1800-America-Chicago"
+    guide: /articles/small-pantry-storage-picks.html
+    anchor: pop-container-pick
+    affiliate_url: https://www.amazon.com/dp/B077VHT7H2/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B077VHT7H2
+    manufacturer_source: https://www.oxo.com/pop-container-rectangle-medium-2-7-qt-2-6-l.html
+    fit_note: "Selected White Amazon listing gives 6.3 inches long x 4.1 wide x 9.8 high. Current OXO family page describes Matte Black SKU 11429700B with different measurements; those are not substituted for this White version. Carry by the body, not the lid; accessories sold separately."
