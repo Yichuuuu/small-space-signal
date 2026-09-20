@@ -261,3 +261,36 @@ products:
     source_url: https://www.amazon.com/dp/B077VHT7H2
     manufacturer_source: https://www.oxo.com/pop-container-rectangle-medium-2-7-qt-2-6-l.html
     fit_note: "Selected White Amazon listing gives 6.3 inches long x 4.1 wide x 9.8 high. Current OXO family page describes Matte Black SKU 11429700B with different measurements; those are not substituted for this White version. Carry by the body, not the lid; accessories sold separately."
+  - asin: B00940DUEK
+    name: "OXO Good Grips Compact Dustpan and Brush Set"
+    version: "Compact brush-and-pan set, model 1334280, one set"
+    first_published: 2026-09-20
+    batch: "scheduled-2026-09-20-0600-America-Chicago"
+    guide: /articles/small-space-cleaning-storage-picks.html
+    anchor: dustpan-pick
+    affiliate_url: https://www.amazon.com/dp/B00940DUEK/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B00940DUEK
+    manufacturer_source: https://www.oxo.com/compact-dustpan-brush-set.html
+    fit_note: "Manufacturer size 7.35 x 5.4 x 1.6 inches; Amazon lists the same three dimensions in another order and confirms model 1334280. Brush snaps into pan with bristles covered. Compact countertop/spot-cleaning tool, not a long-handled floor broom."
+  - asin: B01G1Y42H0
+    name: "Command Large White Broom Grippers"
+    version: "Two grippers and four strips, model 17007-HW2ES; manufacturer part 17007-HW2ESFH"
+    first_published: 2026-09-20
+    batch: "scheduled-2026-09-20-0600-America-Chicago"
+    guide: /articles/small-space-cleaning-storage-picks.html
+    anchor: broom-grippers-pick
+    affiliate_url: https://www.amazon.com/dp/B01G1Y42H0/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B01G1Y42H0
+    manufacturer_source: https://www.3m.com/3M/en_US/p/d/b00028133/
+    fit_note: "Selected listing: 0.8-1-inch handle diameter, up to 4 lb per gripper, compatible smooth indoor surface, rubbing-alcohol preparation, 50-105 F, seven days after painting, not within one foot of water/sink or splashing distance. Follow exact pack mounting/removal instructions. One-pack B00U82D0PM and three-pack B09FW2R4W1 are same-product variants, not future new picks."
+  - asin: B08B1T3KBN
+    name: "YouCopia RollOut Under Sink Caddy, 8-inch version"
+    version: "White, part 50261, one rolling caddy with two adjustable dividers and removable hanging basket"
+    first_published: 2026-09-20
+    batch: "scheduled-2026-09-20-0600-America-Chicago"
+    guide: /articles/small-space-cleaning-storage-picks.html
+    anchor: rollout-caddy-pick
+    affiliate_url: https://www.amazon.com/dp/B08B1T3KBN/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B08B1T3KBN
+    manufacturer_source: https://youcopia.com/products/rollout-under-sink-caddy
+    fit_note: "Manufacturer: 7.7 W x 5.3 H x 16.4 D inches, 21.3 D with basket at an end. Amazon bullet: 7.8 W x 5.3 H x 16.3 D; guide flags difference and requires clearance beyond larger values. Side basket placement changes width. Manufacturer limit 30 lb, hand-wash only, no tools required; not locked or child-resistant storage."
