@@ -796,3 +796,35 @@ products:
     source_url: https://www.amazon.com/dp/B01DZQT9CU
     manufacturer_source: https://www.stasherbag.com/products/reusable-silicone-sandwich-bag
     fit_note: "Live brand Product Details: 7.5 x 7 x 1 inches, 28 fl oz / 828 mL; Amazon overview 7.5 W x 7.25 H inches and structured LWH field 1 x 7 x 7.5. Guide discloses differing height references and changing loaded flexible shape, no tight lunchbox or sandwich-opening guarantee. Brand/Amazon dishwasher or warm soapy water, do not invert; clean seal, avoid sharp objects. Integrated closure, not rigid crush protection. No quantified environmental/savings/durability promise. Same bag design's colors, packs and related sizes are excluded from future novelty; single Sandwich Bag not starter kit, stand-up bowl or half-gallon variant."
+
+  - asin: B001F51AP8
+    name: "Honey-Can-Do Sweater Wash Bag"
+    version: "White, Large, one nylon-mesh zippered bag, model and part LBG-01144, 23 x 22 inches flat"
+    first_published: 2026-09-28
+    batch: "scheduled-2026-09-28-0600-America-Chicago"
+    guide: /articles/small-apartment-laundry-accessories.html
+    anchor: honey-can-do-wash-bag-pick
+    affiliate_url: https://www.amazon.com/dp/B001F51AP8/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B001F51AP8
+    fit_note: "Exact Amazon title, model, features and description identify a single 23 x 22-inch zippered sweater wash bag; nylon mesh. Features give thickness 0.2 inch and overview 0.5 inch, so guide uses only consistently verified flat L/W, not thickness/volume. Follow garment and washer care instructions; no guarantee against snagging, shrinkage, color transfer or suitability of hand-wash/dry-clean-only items. Not a padded carrier or compression bag. Distinct from prior OXO flat sweater dryer and from Honey-Can-Do drawstring transport sacks; same-design colors/sizes/packs treated as variants."
+  - asin: B082LJK4BM
+    name: "OXO Good Grips 3-Piece ClipHanger Set"
+    version: "White plastic, three individual swivel-hook hanging clips, model and part 13286900, UPC 719812000879"
+    first_published: 2026-09-28
+    batch: "scheduled-2026-09-28-0600-America-Chicago"
+    guide: /articles/small-apartment-laundry-accessories.html
+    anchor: oxo-cliphanger-set-pick
+    affiliate_url: https://www.amazon.com/dp/B082LJK4BM/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B082LJK4BM
+    fit_note: "Exact Amazon lists item dimensions 4.75 x 1.3 x 2 inches, three clips, swiveling hook folding inside each clip, non-slip grip, use on suitable rails/racks/hooks for small laundry items. Overall dimensions are not hook-opening dimensions. Guide specifies secure compatible support, free hanging room, light items, no drilling/adhesive, garment care and potential clip marks. Implausible Amazon 120-pound load field not trusted or published. Target same-name listing has a different UPC, so its one-inch rod answer is not asserted for this exact Amazon set. OXO brand browser page was access-restricted; no challenge bypass attempted. Same-design colors/packs excluded from future novelty."
+  - asin: B08QNBGL6Q
+    name: "Joseph Joseph Pocket 35-inch Folding Ironing Board"
+    version: "Gray / Amazon Grey-Yellow, standard model and part 50009, integrated iron storage; Amazon title currently Pocket Max 35-inch"
+    first_published: 2026-09-28
+    batch: "scheduled-2026-09-28-0600-America-Chicago"
+    guide: /articles/small-apartment-laundry-accessories.html
+    anchor: pocket-folding-ironing-board-pick
+    affiliate_url: https://www.amazon.com/dp/B08QNBGL6Q/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B08QNBGL6Q
+    manufacturer_source: https://us.josephjoseph.com/products/pocket-folding-ironing-board-gray
+    fit_note: "Expanded brand Specs identify Gray SKU 50009. Closed H45.5 x W34 x D15.5 cm (brand rounded 18 x 13.5 x 6.25 inches); surface 90 x 33 cm, 11 cm above table when open. Tabletop folding legs; supplied storage bracket requires screws and wall plugs, NOT no-drill over-door hook. Standard cover cotton with polyester felt, wipe clean only; dry before folding; iron cool to room temperature before compartment storage; iron excluded. Do not assume DripLock cover from mixed Amazon wording. No universal iron-compartment fit or table compatibility; same Pocket/Pocket Max naming, colors, sizes and cover bundles treated as related variants for deduplication."
