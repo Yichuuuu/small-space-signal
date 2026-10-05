@@ -1264,3 +1264,36 @@ products:
     source_url: https://www.amazon.com/dp/B071WMZTZH
     manufacturer_source: https://www.oxo.com/strongholdtm-suction-fogless-mirror.html
     fit_note: "Exact live Amazon ASIN/UPC and one-unit identity; numeric model not reliably exposed, not invented. Amazon product description and brand page agree on lever suction, acrylic reflecting surface, reservoir filled with hot water before each shower and razor/washcloth hooks. Smooth glazed surface/mirror/glass only; textured/porous surfaces including some stone/acrylic/metal not recommended. Generic glass/metal metadata not followed, 7.2 x 13.2-inch title and 3 x 7.2 x 13.2-inch fields not treated as verified viewing area or tight-gap guarantee. No coating-only, indefinitely fogless, tested reflection, permanent hold or support-handle claim. Different from existing freestanding Yamazaki mirror/tray; same-design colors, packs, SoftWorks equivalents and minor revisions excluded from future novelty."
+  - asin: B00005QB5U
+    name: "OXO Good Grips Small Salad and Herb Spinner"
+    version: "Small, one spinner, Amazon model 1045409BL; corresponding OXO Little Salad and Herb Spinner SKU 1045409"
+    first_published: 2026-10-05
+    batch: "scheduled-2026-10-05-0600-America-Chicago"
+    guide: /articles/small-kitchen-salad-prep-picks.html
+    anchor: oxo-small-salad-spinner-pick
+    affiliate_url: https://www.amazon.com/dp/B00005QB5U/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B00005QB5U
+    manufacturer_source: https://www.oxo.com/little-salad-and-herb-spinner.html
+    fit_note: "Live Amazon selected and purchase-form ASIN verified. Amazon and OXO list 8 x 8 x 7 inches; brand distinguishes 3.03-quart bowl and 2.44-quart basket. Manual pump, brake, removable colander basket, disassembling lid and dishwasher care verified; Amazon specifies pump storage lock and top-rack recommendation. No separately verified locked height or serving count; rigid bowl does not fold flat. Same-design colors, packs, SoftWorks equivalents, size variants and minor revisions excluded from future novelty."
+  - asin: B004HFR2MS
+    name: "Chef'n VeggiChop Hand-Powered Food Chopper"
+    version: "Arugula, one original VeggiChop, model 102-239-011, UPC 838485015604; not VeggiChop Plus"
+    first_published: 2026-10-05
+    batch: "scheduled-2026-10-05-0600-America-Chicago"
+    guide: /articles/small-kitchen-salad-prep-picks.html
+    anchor: chefn-veggichop-pick
+    affiliate_url: https://www.amazon.com/dp/B004HFR2MS/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B004HFR2MS
+    manufacturer_source: https://www.chefn.com/products/veggichop-vegetable-chopper
+    fit_note: "Exact live Amazon ASIN/model/Arugula single-unit identity matches brand SKU. Amazon title dimensions 5.5 x 5.5 x 5 inches conflict in axis order with 5 L x 5.5 W x 5.5 H structured data; only approximate exterior size reported with explicit tight-drawer height caveat. Brand verifies chunk preparation, secured center blade, twist-lock lid, firm dry surface, two-handed pull operation, storage lid, hand-washed pull lid and dishwasher-safe bowl/blade. No Plus condiment attachment, guaranteed uniform dice, exact capacity or accessibility benefit claimed. Same-design colors, packs and minor revisions excluded from future novelty."
+  - asin: B01N2Y8QK1
+    name: "Joseph Joseph Helix Citrus Juicer"
+    version: "Yellow, single manual citrus press, model 20101, GTIN 05028420201017"
+    first_published: 2026-10-05
+    batch: "scheduled-2026-10-05-0600-America-Chicago"
+    guide: /articles/small-kitchen-salad-prep-picks.html
+    anchor: joseph-joseph-helix-juicer-pick
+    affiliate_url: https://www.amazon.com/dp/B01N2Y8QK1/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B01N2Y8QK1
+    manufacturer_source: https://us.josephjoseph.com/products/helix-citrus-juicer-yellow
+    fit_note: "Live Amazon selected/purchase ASIN, Yellow model 20101 and brand SKU match. Brand dimensions H24.5 x W8.5 x D9.8 cm with its rounded H9.75 x W3.5 x D4-inch equivalents; manual twisting mechanism, stainless steel and nylon, lemon/lime use, separable two-piece dishwasher-safe design. Amazon generic 1000-watt and 1-liter fields not used as motor or reservoir facts. No tested extraction, grip comfort, accessibility benefit or universal fruit fit promised. Not JuiceMax or JuiceMax Plus; same-design colors, packs and minor revisions excluded from future novelty."
