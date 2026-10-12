@@ -1772,3 +1772,38 @@ products:
     manufacturer_source: https://www.humangear.com/shop/p/gotubb
     instruction_source: https://humangear.ca/products/gotubb
     fit_note: "Live selected/purchase ASIN, small three-pack title, Clear/Aqua/Teal and UPC verified; twisterAvailability showed In Stock with enabled visible purchase controls. US brand and selected Amazon agree 15 ml each and 1.42-inch diameter x 1.04-inch lid-on height (36 x 26.5 mm). One-hand opening and textured labeling area verified. Canadian brand guidance excludes fluids/products becoming liquid and says hand wash; conflicting Amazon dishwasher-safe field disclosed and conservative care used. No leakproof, waterproof, interior width, cream compatibility or child-resistant claim. Older Clear/Green/Blue ASIN B00667E2H8 was inspected, not published, and is now excluded with other sizes, colors, packs and minor GoTubb revisions from future novelty."
+  - asin: B0CWVTGJM2
+    name: "Sea to Summit Detour Collapsible Mug"
+    version: "One 16 fl oz / 475 ml mug, Laurel Wreath Green, Amazon model ST84416 and part A1321-40"
+    first_published: 2026-10-12
+    batch: "scheduled-2026-10-12-1800-America-Chicago"
+    guide: /articles/small-kitchen-pack-away-tableware.html
+    anchor: detour-collapsible-mug-pick
+    affiliate_url: https://www.amazon.com/dp/B0CWVTGJM2/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B0CWVTGJM2
+    manufacturer_source: https://seatosummit.com/products/detour-collapsible-mug
+    instruction_source: https://seatosummit.com/pages/warnings
+    fit_note: "Live selected/purchase ASIN, Laurel Wreath Green, 16 fl oz, model and part verified. Amazon visible stock text and enabled purchase controls confirmed availability; no continuing-stock claim published. Brand metric packed 9.8 x 9.8 x 3.1 cm and expanded 9.8 x 9.8 x 9.6 cm used with explicitly approximate inch conversions, not the rounded 4 x 4 x 1 inch table. Stainless steel and silicone; no lid, minimal insulation, no microwave, empty-only collapse, hot-content caution. Brand dishwasher guidance distinguished from conflicting Amazon care field. No sealed transport, leakproof, heat-retention duration, three-product nesting, cookware or hands-on claim. Other Detour mug colors, packs and minor revisions excluded from future novelty."
+  - asin: B0CWWJ9MHJ
+    name: "Sea to Summit Frontier Collapsible Bowl, Medium"
+    version: "One Medium bowl, Aqua Sea Blue, 680 ml / 23 US fl oz, model and part SS02111"
+    first_published: 2026-10-12
+    batch: "scheduled-2026-10-12-1800-America-Chicago"
+    guide: /articles/small-kitchen-pack-away-tableware.html
+    anchor: frontier-medium-bowl-pick
+    affiliate_url: https://www.amazon.com/dp/B0CWWJ9MHJ/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B0CWWJ9MHJ
+    manufacturer_source: https://seatosummit.com/products/frontier-collapsible-bowl?variant=42585354076333
+    instruction_source: https://seatosummit.com/pages/warnings
+    fit_note: "Live selected/purchase ASIN, Medium/Aqua Sea, SS02111 and purchase availability verified. Brand medium capacity 680 ml and metric packed 15.1 x 15.1 x 1.7 cm / expanded 15.1 x 15.1 x 5.1 cm used; inch conversions explicitly approximate. No large-bowl or rounded one-inch packed-height substitution. Silicone sidewalls and glass-reinforced nylon base/rim. Brand permits dishwasher, prohibits microwave, supplies no lid and requires empty-only collapse plus hot-content caution. Conflicting weight fields not used. No sealed lunchbox, transport seal, cookware, guarantee all three products nest, testing or supplied spoon claim. Frontier bowl sizes, colors, packs and minor revisions excluded from future novelty."
+  - asin: B00GTXC1S6
+    name: "humangear GoBites Duo"
+    version: "One Gray original nylon set with one fork and one spoon; Amazon model 340452, part 1899063, UPCs 789232237810 / 091037722003"
+    first_published: 2026-10-12
+    batch: "scheduled-2026-10-12-1800-America-Chicago"
+    guide: /articles/small-kitchen-pack-away-tableware.html
+    anchor: humangear-duo-pick
+    affiliate_url: https://www.amazon.com/dp/B00GTXC1S6/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B00GTXC1S6
+    manufacturer_source: https://www.humangear.com/shop/p/duo
+    fit_note: "Live selected/purchase ASIN, Gray nylon Duo and purchase availability verified. Brand nested 5.8 x 1.6 inches / 148.5 x 40 mm and connected 9.1 x 1.6 inches / 231 x 40 mm confirmed; no unprovided thickness. Amazon generic count of one interpreted as one set based on included-components field specifying one fork and one spoon; ambiguity disclosed. Amazon dishwasher-safe field attributed to listing with package-care instruction. No Bio material/dimensions substituted, no knife, included sealed case, measuring-spoon accuracy, microwave, three-product nesting or hands-on claim. Duo colors, packs, material revisions including same-purpose Bio Duo and minor revisions excluded from future novelty."
