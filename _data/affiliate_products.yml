@@ -1840,3 +1840,38 @@ products:
     source_url: https://www.amazon.com/dp/B0B4Z7W66F
     manufacturer_source: https://www.brabantia.com/us/peg-bag-compact-black/
     fit_note: "Live selected/purchase ASIN, Matt Black compact variant, model 149726, bag-only included components and available purchase controls verified. Official US manufacturer search-index extract lists 18 cm length x 17.5 cm width x 16 cm height; treated as exterior fabric-bag space allowance, not rigid usable interior. Up to 75 pins is attributed to brand and depends on peg size, not number supplied. Hanging loop and closing cord verified. Direct manufacturer fetch returned 429; not bypassed, source limitation disclosed. No Premium bag specification substitution, rigid dimensions, waterproof/weatherproof, rack load, supplied pins or testing claim. Compact/Premium same-purpose Brabantia peg-bag colors, sizes, packs and minor revisions excluded from future novelty."
+  - asin: B011Q1ZHHM
+    name: "OLFA FCM-12x17 Folding Cutting Mat"
+    version: "One Green nominal 12 x 17 inch folding mat, Amazon model FCM-12x17 / part FCM12X17, brand item 1119735, UPC 091511220087"
+    first_published: 2026-10-13
+    batch: "scheduled-2026-10-13-1800-America-Chicago"
+    guide: /articles/small-space-pack-away-cutting-tools.html
+    anchor: olfa-folding-mat-pick
+    affiliate_url: https://www.amazon.com/dp/B011Q1ZHHM/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B011Q1ZHHM
+    manufacturer_source: https://olfa.com/products/olfa_fcm-12x17_12_x_17_folding_cutting_mat
+    instruction_source: https://olfa.com/pages/faq
+    fit_note: "Live selected/purchase ASIN, Green FCM-12x17, UPC and purchase availability verified. Brand and Amazon feature text agree nominal 12 x 17 inch model and 2.5 mm thickness, shaped folding joint and rotary/fixed-blade compatibility. Generic Amazon 0.5 inch thickness, Cotton material and weight fields not adopted. Exact folded outside size not established from current US description; no tight sleeve/drawer-fit claim, folded-height calculation or other regional model dimensions substituted. Folding only at designed joint; no rolling or ironing. No flat RM-CG rotary-only care restriction transferred to this folding model. Other FCM sizes, colors, packs and minor revisions excluded from future novelty."
+  - asin: B000BNLLHW
+    name: "OLFA RTY-2/DX 45 mm Ergonomic Rotary Cutter"
+    version: "One RTY-2/DX squeeze-handle cutter with preloaded Endurance blade, brand item 9654; not a 60 mm model or refill-only pack"
+    first_published: 2026-10-13
+    batch: "scheduled-2026-10-13-1800-America-Chicago"
+    guide: /articles/small-space-pack-away-cutting-tools.html
+    anchor: olfa-ergonomic-cutter-pick
+    affiliate_url: https://www.amazon.com/dp/B000BNLLHW/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B000BNLLHW
+    manufacturer_source: https://olfa.com/products/olfa-45mm-rty-2-dx-ergonomic-rotary-cutter
+    instruction_source: https://olfa.com/blogs/craft/blade-change-45-60mm-rotary-blade-changes
+    fit_note: "Live selected/purchase ASIN, RTY-2/DX model, title and purchase availability verified. 45 mm is blade diameter, not handle length. Trigger retraction distinguished from lock-open operation; lock-closed storage and handedness-specific blade assembly explained with official instruction-page link. Brand and Amazon agree preloaded Endurance blade; conflicting six/eight-layer and generic included-components fields not used. No tested cutting, grip, medical comfort, blade-longevity or child-safety guarantee; no decorative blades or case assumed supplied. Same ergonomic squeeze-handle cutter family including colors, diameter variants, packs and minor revisions excluded from future novelty."
+  - asin: B007L5NM4S
+    name: "OLFA QR-6x12 Frosted Acrylic Ruler"
+    version: "One Clear 6 x 12 inch frosted acrylic ruler, part QR-6x12, brand item 1071819, UPC 091511300925"
+    first_published: 2026-10-13
+    batch: "scheduled-2026-10-13-1800-America-Chicago"
+    guide: /articles/small-space-pack-away-cutting-tools.html
+    anchor: olfa-frosted-ruler-pick
+    affiliate_url: https://www.amazon.com/dp/B007L5NM4S/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B007L5NM4S
+    manufacturer_source: https://olfa.com/products/olfa-qr-6x12-6-x-12-frosted-acrylic-ruler
+    fit_note: "Live selected/purchase ASIN, QR-6x12 part, UPC, Clear variant and visible enabled Add to Cart and Buy Now controls verified without actions. Main stock text was empty; no invented stock count. Brand and Amazon agree 6 x 12 inch size, imperial increments and 15/30/45/60/90 degree guides. Non-slip described as manufacturer feature, not an immobilization or injury-prevention guarantee. No folding, clamp, metric-scale, case-inclusion, full-width fabric cutting or exact combined-kit fit claim. Same frosted acrylic ruler family sizes, colors, packs and minor revisions excluded from future novelty."
