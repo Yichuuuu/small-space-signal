@@ -1942,3 +1942,39 @@ products:
     manufacturer_source: https://www.bissell.com/en-us/product/easysweep-compact-manual-sweeper-2484A.html
     instruction_source: https://support.bissell.com/app/answers/detail/a_id/1100
     fit_note: "Live selected/purchase ASIN, Teal title, 2484A model, UPC and availability verified. Amazon 11 inch width x 42 inch height explicitly attributed; exact flat thickness and under-furniture clearance not established. Brand and selected listing confirm manual operation, lay-flat storage, handle loop, dual bottom-empty bins and removable brush roll. Conflicting weight fields omitted. No telescoping handle, included hook, shared-rack fit, suction, wet pickup, deep-pile or universal finish compatibility, noise measurement or hands-on claim. Natural Sweep B001GL1NXU was rejected before publication because title 92N0A conflicts with model/UPC identity 92N0N. Same EasySweep colors, packs and minor model revisions excluded from future novelty."
+
+  - asin: B0B46TGDJR
+    name: "YouCopia StoraBag Food Bag Dispenser, 4-Slot"
+    version: "White standard 4-Slot, UPC 817010023215, manufacturer SKU 50400; not Family Size or grocery-bag dispenser"
+    first_published: 2026-10-18
+    batch: "scheduled-2026-10-18-0600-America-Chicago"
+    guide: /articles/small-kitchen-wrap-and-bag-organizers.html
+    anchor: storabag-four-slot-pick
+    affiliate_url: https://www.amazon.com/dp/B0B46TGDJR/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B0B46TGDJR
+    manufacturer_source: https://youcopia.com/products/storabag-food-bag-dispenser-4-slot
+    fit_note: "Amazon selected 4-Slot ASIN and UPC match brand GTIN; Amazon generic model/part field is 1, brand SKU is 50400. Both descriptive specifications give 12.0 D x 10.3 W x 2.8 H inches; conflicting Amazon generic dimension field excluded and disclosed. Four compartments, removable lid, 24 labels, flat or upright placement, hand wash. No bulk-pack capacity guarantee. Accessible Amazon listing shows other-seller buying options, not a featured offer; no checkout or delivery guarantee. Direct HTTP validation page was not bypassed. Same-design sizes, Family Size, colors and packs excluded from future novelty."
+  - asin: B0CW6MXS2D
+    name: "YouCopia StoraRoll Food Wrap Dispenser, 2-in-1"
+    version: "White 2-in-1, UPC 817010024274; Amazon model/part 50830, brand SKU 50889, matching GTIN"
+    first_published: 2026-10-18
+    batch: "scheduled-2026-10-18-0600-America-Chicago"
+    guide: /articles/small-kitchen-wrap-and-bag-organizers.html
+    anchor: storaroll-two-in-one-pick
+    affiliate_url: https://www.amazon.com/dp/B0CW6MXS2D/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B0CW6MXS2D
+    manufacturer_source: https://youcopia.com/products/storaroll-food-wrap-dispenser-2-in-1
+    instruction_source: https://youcopia.zendesk.com/hc/en-us/articles/16954598727053-StoraRoll-Food-Wrap-Dispenser-FAQ
+    fit_note: "Amazon selected 2-in-1 ASIN and UPC match manufacturer GTIN despite different catalog model/SKU fields. Both descriptive specs give 15.3 D x 6.1 W x 3.1 H inches. Brand 9-13-inch roll length and FAQ 2.25-inch maximum roll diameter; no bulk rolls or Glad Press'n Seal. Four dividers, one sliding cutter, removable lid, 16 labels, hand wash. No blade-life or cut-quality promise. Accessible Amazon selected-variant data shows a new-offer buying option, no featured offer. Same-design 3-in-1, original dispenser, colors, packs and minor revisions excluded from future novelty."
+  - asin: B07V82KXB1
+    name: "YouCopia WrapStand Kitchen Wrap, Foil and Bag Caddy"
+    version: "White, model and part 50173; selected Amazon UPC 817010021686, brand catalog GTIN 817010020221"
+    first_published: 2026-10-18
+    batch: "scheduled-2026-10-18-0600-America-Chicago"
+    guide: /articles/small-kitchen-wrap-and-bag-organizers.html
+    anchor: wrapstand-caddy-pick
+    affiliate_url: https://www.amazon.com/dp/B07V82KXB1/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B07V82KXB1
+    manufacturer_source: https://youcopia.com/products/storemore-wrapstand-adjustable-foil-and-freezer-bag-organizer
+    instruction_source: https://youcopia.zendesk.com/hc/en-us/articles/360002481452-WrapStand-Wrap-and-Bag-Caddy-FAQs
+    fit_note: "Matching White model 50173, eight adjustable wire holders, base and carry handle; catalog UPC difference retained, not asserted identical. Brand approximately 5.4 x 8.3 x 11.3 inches versus Amazon 5.4 x 8.34 x 11.34; unloaded dimensions, not loaded carton clearance. Current product pages say 3.5-inch box width but brand FAQ says 3 inches; conflict disclosed with confirmation required above 3 inches. Wire feet down, balanced flat base, heavier cartons low, tool-free freestanding use, hand wash. No universal jumbo-box or eight-box capacity promise. Accessible Amazon listing displays other-seller buying options; direct HTTP validation page not bypassed. Same-design colors, packs and minor revisions excluded from future novelty."
