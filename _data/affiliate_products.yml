@@ -2221,3 +2221,37 @@ products:
     source_url: https://www.amazon.com/dp/B09KFPC2XD
     manufacturer_source: https://www.oxo.com/oxo-gg-8-piece-clip-set.html
     fit_note: "Normal live-browser check 2026-10-22T11:02:25Z confirmed selected ASIN/title, 8 Piece Bag Clip Set size, multicolor, UPC, one set, matching contents, In Stock, enabled purchase controls and Amazon.com seller; no shopping action. Brand page accessed in web browsing corroborates four all-purpose clips, three cinches, one large clip and magnets/hanging holes on clips, not cinches. Later direct HTTP attempt at brand page showed access challenge; no bypass attempted. Verified use attaches to bag tops rather than cabinet mounting; numeric jaw widths/opening thickness not verified and explicitly not supplied. No airtight, waterproof, pest-proof, shelf-life, dishwasher, fixed storage envelope or hands-on claim. Exclude same clip designs in other colors, pack sizes, minor revisions and alternate listings including B0051T97DQ and B01KQ8SAN4 from future novelty; existing Clover sewing clips and OXO laundry ClipHangers are different products."
+
+  - asin: B0DCX77SQB
+    name: "OXO Good Grips Soap Dispenser, 10 oz"
+    version: "One 10 oz dispenser, model 13398100; not the larger or stainless-steel models"
+    first_published: 2026-10-22
+    batch: "scheduled-2026-10-22-1800-America-Chicago"
+    guide: /articles/small-bathroom-no-drill-handwashing-station.html
+    anchor: oxo-ten-ounce-soap-pump-pick
+    affiliate_url: https://www.amazon.com/dp/B0DCX77SQB/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B0DCX77SQB
+    manufacturer_source: https://www.oxo.com/foaming-hand-soap-dispenser-10-oz.html
+    fit_note: "Ordinary live-browser check 2026-10-22T23:00:00Z confirmed selected ASIN/title, model 13398100, 10 oz, In Stock and enabled purchase controls with Amazon.com seller/shipper; no shopping action. Amazon lists 3.05 x 2.9 x 6.55 inches. Brand confirms soap/lotion/sanitizer use, clear reservoir, MAX line and quarter-turn refill head. Brand URL says foaming but visible product title/details do not establish foaming operation; no foaming or dilution claim. Allow hand/refill access beyond product size. No leakproof travel seal, tested operating force, formula compatibility, drip-free or hands-on claim. Exclude same dispenser size/color/pack variants and minor revisions from future novelty; different from existing soap dishes and soap-dispensing cleaning brushes."
+  - asin: B09VQ4XJXD
+    name: "Umbra Palm Towel Tree"
+    version: "One black model 1018618-040, UPC 028295386456; freestanding two-tier hand-towel stand"
+    first_published: 2026-10-22
+    batch: "scheduled-2026-10-22-1800-America-Chicago"
+    guide: /articles/small-bathroom-no-drill-handwashing-station.html
+    anchor: umbra-palm-towel-tree-pick
+    affiliate_url: https://www.amazon.com/dp/B09VQ4XJXD/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B09VQ4XJXD
+    manufacturer_source: https://www.umbra.com/products/palm-tree-towel-rack
+    fit_note: "Ordinary live-browser check 2026-10-22T23:00:55Z confirmed selected ASIN/title, black, model 1018618-040, UPC, one count, in-stock purchase controls and Amazon.com seller/shipper; no shopping action. Amazon and brand specification table give 10 L x 4.75 W x 13.75 H inches; brand prose gives 10.25-inch length. Discrepancy disclosed, allow larger span. Freestanding/no wall drilling, two bars and tray base verified. Overall height not lower-bar clearance; exact towel fit, load capacity and drying performance not inferred. Shared nickel-finish prose inconsistent with selected black variant, not used. No preassembled, tip-proof, damage-free or hands-on promise. Exclude Palm colors, packs, old 021019 codes, REM packaging and minor revisions from novelty; distinct from prior over-cabinet towel bar and laundry ClipHangers."
+  - asin: B00HY8H5KE
+    name: "Umbra Touch Trash Can with Lid, 6 L"
+    version: "One black small Touch bin, 1.6 gallon / 6 liter, UPC 028295419703; numeric model code not shown in selected listing details"
+    first_published: 2026-10-22
+    batch: "scheduled-2026-10-22-1800-America-Chicago"
+    guide: /articles/small-bathroom-no-drill-handwashing-station.html
+    anchor: umbra-touch-bin-pick
+    affiliate_url: https://www.amazon.com/dp/B00HY8H5KE/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B00HY8H5KE
+    manufacturer_source: https://www.umbra.com/products/touch-trash-can
+    fit_note: "Ordinary live-browser check 2026-10-22T23:00:03Z confirmed selected ASIN/title, black Small, 6 liters, UPC and one count. No featured offer; read-only See All Buying Options showed new offers with Add to Cart controls including Hour Loop shipped by Amazon.com; no shopping action. Amazon dimensions 7.68 L x 7.68 W x 11.81 H inches, brand 7.67 x 7.67 x 11.81; slight difference disclosed. Swing lid lifts off. Brand and Amazon explicitly restrict to dry waste and avoiding moisture. No pedal, airtight/odor seal, waterproof, pet-resistant, liner-fit, recycled-content percentage or hands-on claim. Manufacturer numeric black SKU not inferred from the white default variant; exact selected model identified by Touch name, size/color and UPC. Additional public brand JSON request encountered verification challenge and was not bypassed; accessible brand page and live Amazon supplied facts. Exclude Touch colors, packs, alternate codes and minor material revisions from future novelty; distinct from previously published kitchen compost/in-cabinet bins."
