@@ -2255,3 +2255,37 @@ products:
     source_url: https://www.amazon.com/dp/B00HY8H5KE
     manufacturer_source: https://www.umbra.com/products/touch-trash-can
     fit_note: "Ordinary live-browser check 2026-10-22T23:00:03Z confirmed selected ASIN/title, black Small, 6 liters, UPC and one count. No featured offer; read-only See All Buying Options showed new offers with Add to Cart controls including Hour Loop shipped by Amazon.com; no shopping action. Amazon dimensions 7.68 L x 7.68 W x 11.81 H inches, brand 7.67 x 7.67 x 11.81; slight difference disclosed. Swing lid lifts off. Brand and Amazon explicitly restrict to dry waste and avoiding moisture. No pedal, airtight/odor seal, waterproof, pet-resistant, liner-fit, recycled-content percentage or hands-on claim. Manufacturer numeric black SKU not inferred from the white default variant; exact selected model identified by Touch name, size/color and UPC. Additional public brand JSON request encountered verification challenge and was not bypassed; accessible brand page and live Amazon supplied facts. Exclude Touch colors, packs, alternate codes and minor material revisions from future novelty; distinct from previously published kitchen compost/in-cabinet bins."
+
+  - asin: B0DJWTB6Z7
+    name: "Westcott Mini Folding Scissors"
+    version: "One white-handled 00766 pair, UPC 073577007666; single pair, not the multipack or scissors-and-cutter kit"
+    first_published: 2026-10-23
+    batch: "scheduled-2026-10-23-0600-America-Chicago"
+    guide: /articles/small-space-paper-project-tools.html
+    anchor: westcott-folding-scissors-pick
+    affiliate_url: https://www.amazon.com/dp/B0DJWTB6Z7/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B0DJWTB6Z7
+    manufacturer_source: https://westcottbrand.com/products/westcott-folding-scissors-tsa-compliant-and-portable-titanium-blades-with-white-handles-for-travel-crafting-and-sewing-00766
+    fit_note: "Ordinary live-browser check 2026-10-23T11:07:50Z confirmed selected ASIN/title, 00766, UPC, white, one count, In Stock and enabled purchase controls with Amazon.com seller/shipper; no shopping action. Brand confirms folding/retractable construction, titanium bonded to stainless-steel core and light paper/light fabric duty. Brand additional-information Length 0.67, Width 4.65, Height 3.46 lacks units and folded/packaged context; excluded rather than assumed a folded envelope. No verified folded size, universal pocket fit, solid-titanium blade, thick-cardboard use, durability multiplier, airline-security guarantee or hands-on claim. Exclude this design's colors, packs including B0DJWTLVQ2, kits and minor revisions from novelty; distinct brand/model from the previously published Fiskars sewing-kit scissors. Generic family marketing about heavy boxes not applied to this light-duty model."
+  - asin: B000XAN5U4
+    name: "Tombow MONO Removable Adhesive Applicator"
+    version: "One model 62108 applicator with removable adhesive; 1/3-inch-wide by 472-inch-long supply, not a refill-only pack"
+    first_published: 2026-10-23
+    batch: "scheduled-2026-10-23-0600-America-Chicago"
+    guide: /articles/small-space-paper-project-tools.html
+    anchor: tombow-removable-adhesive-pick
+    affiliate_url: https://www.amazon.com/dp/B000XAN5U4/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B000XAN5U4
+    manufacturer_source: https://www.tombowusa.com/products/refill-mono-adhesive-removable-pack
+    fit_note: "Ordinary live-browser check 2026-10-23T11:07:27Z confirmed selected ASIN/title, model 62108, Sold 1 Each, In Stock and enabled purchase controls with Amazon.com seller/shipper; no shopping action. Amazon confirms applicator, removable paper/photo/cardstock bond, snap-in refill and 1/3 x 472-inch tape supply. Current manufacturer refill page explicitly identifies compatibility with 62108 and same dimensions; correctly labeled as separate 62209 three-refill pack, not the linked single applicator. Multiple UPCs and 39.3 Feet unit field not misrepresented as product count or unique barcode. No verified body dimensions, universal residue-free removal, wall mounting, permanent bond, conservation suitability or hands-on claim. Old manufacturer .html URL returned 404; current /products/ page used. Exclude MONO Removable colors, packs, refill-only listings and minor revisions from novelty; different from prior Scotch desktop tape dispenser."
+  - asin: B0DKHZBJVG
+    name: "KOKUYO Harinacs Press Stapleless Stapler"
+    version: "One Sepia Black SLN-MPH105SD press-type binder, approximately five sheets of 64 g/m² copy paper"
+    first_published: 2026-10-23
+    batch: "scheduled-2026-10-23-0600-America-Chicago"
+    guide: /articles/small-space-paper-project-tools.html
+    anchor: kokuyo-harinacs-press-pick
+    affiliate_url: https://www.amazon.com/dp/B0DKHZBJVG/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B0DKHZBJVG
+    manufacturer_source: https://www.kokuyo.com/en/stationery/category/stapler-punch/stapler/13491/
+    fit_note: "Ordinary live-browser check 2026-10-23T11:07:53Z confirmed selected ASIN/title, SLN-MPH105SD, Sepia Black, one count, In Stock and enabled purchase controls; ships from Amazon, seller JCS-HEIANDO; no shopping action. Exact official model verifies exterior W34 D95 H85 mm, binding mark 1.6 x 10 mm, approximately five 64 g/m² copy-paper sheets, crimp binding without staples or punched holes, weaker holding power than metal staples and paper-dependent capacity. Brand forbids non-paper and adhesive-bearing materials; article explicitly separates adhesive runner task from press task. No unmarked-paper, all-paper five-sheet, permanent secure-binding, ergonomic-force or hands-on promise. Exclude all five-sheet Harinacs Press colors, old/new SLN-MPH105 codes, packs, alternate ASINs including B00O9N1BFM, B00O9N1BHA, B0DKHV22Y1, B0DKHXV7QJ, B0DKJ7K587 and minor revisions from novelty. Not the higher-capacity cut-and-fold design."
