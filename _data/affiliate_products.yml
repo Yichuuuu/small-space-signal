@@ -2356,3 +2356,39 @@ products:
     source_url: https://www.amazon.com/dp/B079GHP7Z7
     manufacturer_source: https://shop.progressiveintl.com/herb-prokeeper/
     fit_note: "Ordinary live-browser check 2026-10-24T23:05:38.077Z confirmed exact selected ASIN/title, one herb keeper, white lid and drain plug, UPC 078915055217, In Stock and enabled new-item purchase controls with Amazon.com seller/shipper; no shopping action. Live Amazon measurements: 6.65 L x 5.4 W x 9.75 H inches; dishwasher-safe plastic and removable basket/drain confirmed. Indexed official Progressive catalog maps same UPC to PKS-930 and describes one to three variable-size herb bunches, lid-linked basket movement and drainage; direct catalog open returned 423, not bypassed, no live brand-stock claim. Reject Amazon generic 8-pound capacity and bread-storage type fields as unsuitable for this herb container. Guide explicitly warns about near-ten-inch height plus opening clearance and rejects universal mini-fridge/door fit or fixed freshness duration. OXO B073SHH2TZ access-check page not bypassed; Cole & Mason B019Z2IJX8 excluded for conflicting size/care specifications. Exclude PKS-930 colors, packs, alternate listings, Prepworks/ProKeeper naming variants and minor revisions from future novelty."
+  - asin: B00B78UBO4
+    name: "Bentgo Classic Stackable Lunch Box"
+    version: "One Gray Classic, two stacking containers with three compartments, removable utensil set and nylon strap; GTIN 00728028204063"
+    first_published: 2026-10-25
+    batch: "scheduled-2026-10-25-0600-America-Chicago"
+    guide: /articles/compact-lunch-gear-storage.html
+    anchor: bentgo-classic-pick
+    affiliate_url: https://www.amazon.com/dp/B00B78UBO4/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B00B78UBO4
+    manufacturer_source: https://bentgo.com/products/bentgo-classic-lunch-box
+    fit_note: "Ordinary live-browser check 2026-10-25T11:05:22.148Z confirmed exact selected ASIN, Gray Classic, GTIN, 3.5-cup capacity, In Stock and enabled purchase controls; ships Amazon, seller Bentgo Direct; no shopping action. Live selected listing dimensions 7 L x 4.5 W x 4 H inches are used as overall size, not individual compartment size. Brand confirms upper container nests in lower when empty, included utensils/strap, main-container microwave/dishwasher use excluding lids/divider/strap, and explicitly NOT leakproof. Do not substitute smaller bottom-only dimensions for overall stacked height. Amazon search encountered a checkpoint and was abandoned without interaction; separate publicly indexed direct product URL loaded normally with no checkpoint and no bypass. No claim that a filled Bentgo and Stojo fit inside the featured PackIt. Exclude Classic colors, packs, alternate ASINs and minor revisions from future novelty."
+  - asin: B07ZKH6BQS
+    name: "Stojo 16 oz Collapsible Cup"
+    version: "One Peony 16-ounce silicone cup with straw, UPC/model number 856229008842; not the 12-ounce cup"
+    first_published: 2026-10-25
+    batch: "scheduled-2026-10-25-0600-America-Chicago"
+    guide: /articles/compact-lunch-gear-storage.html
+    anchor: stojo-cup-pick
+    affiliate_url: https://www.amazon.com/dp/B07ZKH6BQS/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B07ZKH6BQS
+    manufacturer_source: https://stojo.earth/products/cup-copy
+    care_source: https://stojo.earth/pages/faqs
+    fit_note: "Ordinary live-browser check 2026-10-25T11:04:36.144Z confirmed exact ASIN/title, Peony, 16 ounces, one cup, straw and UPC, In Stock and enabled new-item purchase controls; ships Amazon, seller PortmanGoodsOKC; no shopping action. Official size-specific 16 fl oz / 473 mL chart gives 5.5 inches expanded height, 2 inches collapsed height, 4-inch lid diameter. Amazon mixes a 3.5-inch diameter matching the brand's 12-ounce chart and inconsistent 5-by-5/care fields; guide explicitly discloses this and uses the manufacturer's labeled 16-ounce chart and top-rack/hand-wash directions. Empty before collapse; open tab/remove sleeve/collapse/stow sleeve/close tab; rinse and dry parts. No exact bag/cupholder-fit, thermal-retention duration, transport leak-proof guarantee or personal testing claim. Current brand catalog does not list Peony by UPC, so variant identity comes from the live Amazon page and chart dimensions are attributed to the 16-ounce family. Distinct lid/straw/sleeve travel design from previously recommended Sea to Summit Detour cup, not a color variant. Exclude Stojo Cup sizes/colors/packs/alternate ASINs/minor revisions from future novelty."
+  - asin: B0CR1ZT7G3
+    name: "PackIt Freezable Classic Lunch Box"
+    version: "One True Blue horizontal Classic carrier, manufacturer SKU PKO-CB-TBL, UPC 819035027254"
+    first_published: 2026-10-25
+    batch: "scheduled-2026-10-25-0600-America-Chicago"
+    guide: /articles/compact-lunch-gear-storage.html
+    anchor: packit-classic-pick
+    affiliate_url: https://www.amazon.com/dp/B0CR1ZT7G3/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B0CR1ZT7G3
+    manufacturer_source: https://packit.com/products/freezable-classic-lunch-box
+    variant_source: https://packit.com/products/freezable-classic-lunch-box.js
+    care_source: https://packit.com/pages/faq
+    fit_note: "Ordinary live-browser check 2026-10-25T11:04:38.990Z confirmed exact selected ASIN/title, True Blue Classic, matching UPC, In Stock and enabled new-item purchase controls; Amazon.com seller/shipper; no shopping action. Current public manufacturer product data maps UPC 819035027254 to True Blue SKU PKO-CB-TBL and variant 40629531934806. Matching brand Classic page gives exterior 10 x 4.5 x 8 inches open and 10.25 x 2 x 8 flattened; FAQ requires eight hours/overnight freezing and complete drying after hand cleaning. Amazon bullet/table dimensions differ and care fields incorrectly mix dishwasher safe with hand wash; these conflicts are disclosed, brand-specific measurements and no-machine/no-dishwasher instructions take precedence. No tight freezer-fit or interior-capacity guarantee, matched-kit claim, fixed cooling duration or food-safety promise. Do not repeat EcoFreeze+ title versus EcoFreeze body as a verified technology revision. Exclude Classic colors/patterns/packs/alternate ASINs/minor revisions from future novelty."
