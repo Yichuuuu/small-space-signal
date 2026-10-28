@@ -2537,3 +2537,35 @@ products:
     source_url: https://www.amazon.com/dp/B0078NU4C6
     manufacturer_source: https://d-line-it.com/us/cord-covers/
     fit_note: "Ordinary live-browser check 2026-10-27T23:06:26.631Z confirmed selected ASIN/title, Black and single 6 Feet option, In Stock and enabled Add to Cart/Buy Now controls; ships Amazon, seller D-Line USA, Inc.; no shopping action. Amazon bullets and official CC-1 profile agree: outside 6 ft L x 2.4 W x 0.44 H inches, inner cavity 0.63 W x 0.31 H inches, up to two 0.31-inch-diameter cables, flexible PVC, split underside and ribbed base. Amazon says no adhesive tape needed. Official light-foot-traffic temporary-use classification takes precedence over Heavy Duty wording in Amazon title. No universal floor fit, vehicle/caster rating, damage-free outcome or trip-prevention guarantee. Exact UPC not visible on captured Amazon page and not inferred from secondary sellers. Exclude CC-1 profile colors, lengths, packs, alternate ASINs and minor revisions from future novelty. Batch published one verified product with a shortfall of two after nine other candidates encountered access challenges; no bypass and no missed-slot backfill."
+  - asin: B00428M7IO
+    name: "Slice 10400 Manual Box Cutter"
+    version: "Model 10400; Locking Blade option; 1 Pack; gray/orange curved handle; manual three-position slider and ceramic blade"
+    first_published: 2026-10-28
+    batch: "scheduled-2026-10-28-1800-America-Chicago"
+    guide: /articles/renter-moving-toolkit.html
+    anchor: slice-box-cutter-pick
+    affiliate_url: https://www.amazon.com/dp/B00428M7IO/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B00428M7IO
+    manufacturer_source: https://www.sliceproducts.com/products/manual-box-cutter
+    fit_note: "Ordinary live-browser check 2026-10-28T23:03:35.005Z confirmed exact ASIN, model 10400, selected Locking Blade and 1 Pack, In Stock and enabled purchase controls; Amazon.com seller/shipper; no shopping action. Screenshot matches gray/orange curved manual cutter. Slice's current 10400 product page read through web browsing confirms 6.97 L x 3.35 W x 0.72 H inches and manual retraction. A later direct archival fetch returned HTTP 429 and was not retried or bypassed. Amazon confirms two exposed blade positions plus fully hidden position and ceramic blade. Omit conflicting cut-depth values (Amazon half inch versus brand 0.33 inch), weights and erroneous Bamboo field; no automatic retraction, risk-free use, lifetime, injury-reduction or hands-on claim. Exclude Slice 10400/closely related curved-handle cutter family colors, packs, alternate ASINs and minor revisions from future novelty."
+  - asin: B000MVV6AA
+    name: "Scotch Heavy Duty Packing Tape with Dispenser"
+    version: "Model 142L; transparent; 1 Roll with dispenser; 1.88 inches x 27.7 yards on a 1.5-inch core"
+    first_published: 2026-10-28
+    batch: "scheduled-2026-10-28-1800-America-Chicago"
+    guide: /articles/renter-moving-toolkit.html
+    anchor: scotch-packing-tape-pick
+    affiliate_url: https://www.amazon.com/dp/B000MVV6AA/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B000MVV6AA
+    fit_note: "Ordinary live-browser check 2026-10-28T23:06:13.447Z confirmed exact ASIN/title, 1 Roll option, model/part 142L, UPC 051131708068, In Stock and enabled purchase controls; Amazon.com seller/shipper; no shopping action. Title and package-content bullets agree on 1.88-inch width, 27.7-yard tape length, 1.5-inch core and included dispenser; screenshot confirms selected single roll. Those values describe tape/core, not dispenser exterior. Ignore malformed dimension-table inch-length/thickness fields. No guaranteed seal, carton weight rating, one-strip sufficiency, moisture resistance, rental-surface compatibility or hands-on claim. Sure Start candidate B01CCMKJ36 was excluded because title/bullets said 38.2 yards while size selector said 54.6 yards. Exclude Scotch Heavy Duty packaging-tape family lengths, colors, refill/dispenser packs, alternate ASINs and minor revisions from future novelty."
+  - asin: B00143JZ08
+    name: "Streamlight MicroStream 66318 Pocket Flashlight"
+    version: "Model 66318; Black; Clear Retail Packaging; one AAA alkaline battery; non-USB version"
+    first_published: 2026-10-28
+    batch: "scheduled-2026-10-28-1800-America-Chicago"
+    guide: /articles/renter-moving-toolkit.html
+    anchor: streamlight-microstream-pick
+    affiliate_url: https://www.amazon.com/dp/B00143JZ08/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B00143JZ08
+    manufacturer_source: https://www.streamlight.com/products/detail/microstream
+    fit_note: "Ordinary live-browser check 2026-10-28T23:04:40.309Z confirmed exact ASIN/title, black model 66318, retail packaging, UPC 080926663183, included one AAA alkaline battery, In Stock and enabled purchase controls; Amazon.com seller/shipper; no shopping action. Brand page fetched HTTP 200 at 2026-10-28T23:05:55.924152+00:00 and confirms 3.60-inch length, one included AAA alkaline battery, tail switch with momentary/constant operation, removable pocket/hat-brim clip and 45-lumen rating. Use brand length; Amazon has conflicting 3.5/3.6/7.9-inch fields. Omit conflicting runtime, wattage and weight fields; no measured brightness/runtime, room-lighting, rechargeability or hands-on claim. Exclude MicroStream family colors, packs, alternate ASINs and revisions from future novelty; do not transfer USB-version specifications."
