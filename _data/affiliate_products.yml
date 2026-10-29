@@ -2569,3 +2569,35 @@ products:
     source_url: https://www.amazon.com/dp/B00143JZ08
     manufacturer_source: https://www.streamlight.com/products/detail/microstream
     fit_note: "Ordinary live-browser check 2026-10-28T23:04:40.309Z confirmed exact ASIN/title, black model 66318, retail packaging, UPC 080926663183, included one AAA alkaline battery, In Stock and enabled purchase controls; Amazon.com seller/shipper; no shopping action. Brand page fetched HTTP 200 at 2026-10-28T23:05:55.924152+00:00 and confirms 3.60-inch length, one included AAA alkaline battery, tail switch with momentary/constant operation, removable pocket/hat-brim clip and 45-lumen rating. Use brand length; Amazon has conflicting 3.5/3.6/7.9-inch fields. Omit conflicting runtime, wattage and weight fields; no measured brightness/runtime, room-lighting, rechargeability or hands-on claim. Exclude MicroStream family colors, packs, alternate ASINs and revisions from future novelty; do not transfer USB-version specifications."
+  - asin: B00II251W4
+    name: "PetFusion Small Silicone Pet Food Mat"
+    version: "One gray Small mat, model PF-FM2A, 18 x 12 inches, UPC 859473002161"
+    first_published: 2026-10-29
+    batch: "scheduled-2026-10-29-0600-America-Chicago"
+    guide: /articles/compact-pet-station.html
+    anchor: petfusion-small-mat-pick
+    affiliate_url: https://www.amazon.com/dp/B00II251W4/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B00II251W4
+    fit_note: "Ordinary live-browser check 2026-10-29T11:03:59.090Z confirmed exact ASIN/title, selected 18 L x 12 W inches and Grey, model PF-FM2A, matching UPC, one item, In Stock and enabled purchase controls; ships Amazon, seller Bristow & Ball; no shopping action. Screenshot reviewed: image shows multiple colors but selected offer is one gray mat. Amazon confirms silicone, raised lip, bumps on both sides and sink/cloth/dishwasher cleaning. Use consistent overall length and width, not conflicting 0.28/0.3-inch height fields or a precise spill capacity. Petmate brand URL returned 404 through web tool; cached search fields contained inconsistent dimensions and were not used. No antimicrobial, allergy, FDA certification, guaranteed grip, waterproof-floor protection or hands-on claims. X-Large B015TFARVC was inspected for variant discovery but not recommended; its public variation map identifies the selected Small ASIN. Exclude PetFusion food-mat family sizes, colors, packs, alternate ASINs and minor revisions from future novelty."
+  - asin: B001LUMWFE
+    name: "Loving Pets Bella Bowl, Small, Espresso"
+    version: "One Small Espresso bowl, model 7404, primary UPC 842982074040"
+    first_published: 2026-10-29
+    batch: "scheduled-2026-10-29-0600-America-Chicago"
+    guide: /articles/compact-pet-station.html
+    anchor: loving-pets-bella-pick
+    affiliate_url: https://www.amazon.com/dp/B001LUMWFE/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B001LUMWFE
+    manufacturer_source: https://lovingpetsproducts.com/original-bella-bowls/
+    fit_note: "Ordinary live-browser check 2026-10-29T11:02:49.476Z confirmed exact ASIN/title, Small Espresso, model 7404 and matching primary UPC, one bowl, In Stock and enabled purchase controls; Amazon.com seller/shipper; no shopping action. Screenshot reviewed. Amazon consistently lists 5.5-inch width; height differs between 1.75-inch bullet and 2-inch details, so precise height is omitted and discrepancy explained. Official Original Bella page read through web and archived HTTP 200 at 2026-10-29T11:03:57.662993+00:00 confirms SKU 7404, UPC, stainless interior/poly-resin exterior and dishwasher cleaning after removing rubber ring. Do not guarantee spill-proofness, immobility or suitability by pet weight alone; no medical benefit, review or hands-on claims. Exclude Bella bowl family colors, sizes, packs, alternate ASINs and minor revisions from future novelty."
+  - asin: B00GX6E2BI
+    name: "Van Ness TREAT ME 2 lb Pet Treat Container"
+    version: "One white/clear 2 Lb Capacity container, model FC2, UPC 079441009057"
+    first_published: 2026-10-29
+    batch: "scheduled-2026-10-29-0600-America-Chicago"
+    guide: /articles/compact-pet-station.html
+    anchor: van-ness-treat-container-pick
+    affiliate_url: https://www.amazon.com/dp/B00GX6E2BI/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B00GX6E2BI
+    manufacturer_source: https://vannesspets.com/product/treat-me-2lb-pet-treat-container/
+    fit_note: "Ordinary live-browser check 2026-10-29T11:02:28.901Z confirmed exact ASIN/title, selected 2 Lb Capacity/White, matching UPC 079441009057, one item, In Stock and enabled purchase controls; seller/shipper MaxWarehouse; no shopping action. Screenshot reviewed. Amazon and current Van Ness FC2 page agree 5.50 W x 6.13 D x 8.25 H inches; brand page read successfully through web, subsequent archival request returned 403 and was not retried or bypassed. Official 2026 catalog maps FC2 to same UPC. Clear body and Fresh-Tite seal verified, Amazon specifies hand wash only. Two-pound capacity is nominal, not guaranteed bag fit or a feeding recommendation; exclude inconsistent generic 5-liter field. No guaranteed freshness duration, pest resistance, pet-proof lock, health or hands-on claims. Exclude Van Ness TREAT ME/food-container family sizes, colors, packs, alternate ASINs and minor revisions from future novelty."
