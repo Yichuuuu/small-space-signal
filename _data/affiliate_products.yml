@@ -2666,3 +2666,35 @@ products:
     manufacturer_source: https://www.littleelfproducts.com/products/green-little-elf-2-pack
     instructions_source: https://www.littleelfproducts.com/pages/how-to
     fit_note: "Ordinary live-browser check 2026-10-30T11:06:36.271Z confirmed exact ASIN/title, Green two-pack, unit count 2, UPC, In Stock and enabled purchase controls; ships Amazon, seller Little ELF Products, Inc.; no shopping action. Screenshot reviewed: two original green cutters with embedded blades. Official green-product page read through web confirms plastic construction with embedded steel blade and loaded-roll diameter 2.25 inches or less, matching Amazon bullets. Official printable instructions read through linked brand how-to page: fit over roll end, feed paper through, measure, engage edge in blade slot, gently slide away from user. Omit malformed Paper/Vinyl material and conflicting generic size/length fields; published dimension is compatibility diameter, not exterior tool size. No injury-proofness, child-safety, perfect-cut, savings, sales, ratings or hands-on claims. Exclude original Little ELF roll-cutter family colors, packs, alternate ASINs and minor revisions from future novelty."
+  - asin: B003KJ6KNO
+    name: "Casabella Rectangular Cleaning Storage Caddy, Gray/Orange"
+    version: "One gray caddy with orange grip, model 8562441, 1-Pack; Amazon size label 1.85 Gallon; GTIN 00028484624413"
+    first_published: 2026-10-30
+    batch: "scheduled-2026-10-30-1800-America-Chicago"
+    guide: /articles/portable-storage-caddies-small-apartments.html
+    anchor: casabella-caddy-pick
+    affiliate_url: https://www.amazon.com/dp/B003KJ6KNO/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B003KJ6KNO
+    fit_note: "Ordinary live-browser check 2026-10-30T23:06:18.581Z confirmed exact ASIN/title, Gray and 1-Pack selections, model 8562441, GTIN, in-stock status and enabled purchase controls; new offer sold/shipped by Amazon.com; no shopping action. Screenshot reviewed: translucent gray rectangular tray, central handle with orange grip. Selected Amazon detail fields and description agree on 15.25 L x 10.25 W x 5.25 H inches; treat as listed exterior size, not measured compartment or loaded clearance. Product title says 1.85 Gallon while generic capacity says 4 gallons and description mentions a 1.5-gallon nesting bucket; article explicitly does not claim liquid capacity or bucket compatibility. No bucket included, leakproofness, load rating, precise bottle count or hands-on claim. Exclude Casabella rectangular carry-caddy family colors, packs, alternate ASINs and minor revisions from future novelty."
+  - asin: B00006ICOT
+    name: "Rubbermaid Commercial Deluxe Carry Caddy, Black, One-Pack"
+    version: "One black Deluxe Carry Caddy, model FG315488BLA; UPC 086876193695"
+    first_published: 2026-10-30
+    batch: "scheduled-2026-10-30-1800-America-Chicago"
+    guide: /articles/portable-storage-caddies-small-apartments.html
+    anchor: rubbermaid-caddy-pick
+    affiliate_url: https://www.amazon.com/dp/B00006ICOT/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B00006ICOT
+    manufacturer_source: https://www.rubbermaid.eu/en/cleaning-equipment/cleaning-accessories/deluxe-carry-caddy-black/
+    fit_note: "Ordinary live-browser check 2026-10-30T23:06:03.404Z confirmed exact ASIN/title, Black 1 Pack, FG315488BLA and UPC, in-stock status and enabled one-time-purchase controls; sold/shipped by Amazon.com; no shopping action. Screenshot reviewed: black molded plastic caddy with central handle and bottle-shaped sides. Brand official page read live through web confirms exact model and 15 L x 10.9 W x 7.4 H inches, matching selected Amazon size bullet; omit conflicting generic Amazon 16 D x 11 W x 8 H fields. Brand describes up to eight 32-ounce spray bottles; article treats this as format capacity, not universal bottle-fit or weight limit. Omit inconsistent weight/capacity/finish fields, guarantee of durability, liquid containment, sanitizer suitability or hands-on claims. Exclude Rubbermaid Deluxe Carry Caddy family colors, packs, alternate ASINs and minor revisions from future novelty."
+  - asin: B0B9DQ13KC
+    name: "Umbra Bellwood Storage Caddy, White/Natural"
+    version: "One White/Natural Bellwood caddy, Amazon Small selection; model 1019130-668; UPC 028295391887"
+    first_published: 2026-10-30
+    batch: "scheduled-2026-10-30-1800-America-Chicago"
+    guide: /articles/portable-storage-caddies-small-apartments.html
+    anchor: umbra-bellwood-caddy-pick
+    affiliate_url: https://www.amazon.com/dp/B0B9DQ13KC/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B0B9DQ13KC
+    manufacturer_source: https://www.umbra.com/products/bellwood-caddy
+    fit_note: "Ordinary live-browser check 2026-10-30T23:08:09.101Z confirmed exact ASIN/title, White/Natural Small selection, 1019130-668 and UPC, available stock and enabled purchase controls; sold/shipped by Amazon.com; no shopping action. Screenshot reviewed: white body, arched natural wood handle, divider; photographed contents not included. Brand Bellwood Caddy page read live through web confirms 12 L x 7.75 W x 9 H inches, removable divider, recycled-plastic body, wooden handle, rubber feet and damp-cloth care. Official page shows both color options; displayed black SKU 1019130-048 is the same caddy family, while selected Amazon and Umbra 2025 catalog identify white SKU 1019130-668. Omit conflicting Amazon 13 D x 3 W x 8 H and Polyester Blend fields, weight rating, waterproofness and guaranteed scratch prevention. Recommend for toiletries, stationery and craft supplies; no chemical-compatibility or wet-cleaning performance claim. Official optional product JSON archival request returned HTTP 429 and was not retried or bypassed; no archived-HTTP-success claim. Exclude Bellwood Caddy family sizes, colors, packs, alternate ASINs and minor revisions from future novelty; distinguish from Bellwood stackable bins."
