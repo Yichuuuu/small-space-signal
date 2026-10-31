@@ -2698,3 +2698,36 @@ products:
     source_url: https://www.amazon.com/dp/B0B9DQ13KC
     manufacturer_source: https://www.umbra.com/products/bellwood-caddy
     fit_note: "Ordinary live-browser check 2026-10-30T23:08:09.101Z confirmed exact ASIN/title, White/Natural Small selection, 1019130-668 and UPC, available stock and enabled purchase controls; sold/shipped by Amazon.com; no shopping action. Screenshot reviewed: white body, arched natural wood handle, divider; photographed contents not included. Brand Bellwood Caddy page read live through web confirms 12 L x 7.75 W x 9 H inches, removable divider, recycled-plastic body, wooden handle, rubber feet and damp-cloth care. Official page shows both color options; displayed black SKU 1019130-048 is the same caddy family, while selected Amazon and Umbra 2025 catalog identify white SKU 1019130-668. Omit conflicting Amazon 13 D x 3 W x 8 H and Polyester Blend fields, weight rating, waterproofness and guaranteed scratch prevention. Recommend for toiletries, stationery and craft supplies; no chemical-compatibility or wet-cleaning performance claim. Official optional product JSON archival request returned HTTP 429 and was not retried or bypassed; no archived-HTTP-success claim. Exclude Bellwood Caddy family sizes, colors, packs, alternate ASINs and minor revisions from future novelty; distinguish from Bellwood stackable bins."
+  - asin: B098SV3PLY
+    name: "Brabantia HangOn Drying Rack, 20m, White"
+    version: "One white 20-metre winged rack, model 403385; Amazon 67 ft (20m) selection; EAN 8710755403385"
+    first_published: 2026-10-31
+    batch: "scheduled-2026-10-31-0600-America-Chicago"
+    guide: /articles/compact-drying-rack.html
+    anchor: brabantia-hangon-pick
+    affiliate_url: https://www.amazon.com/dp/B098SV3PLY/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B098SV3PLY
+    manufacturer_source: https://www.brabantia.com/hangon-drying-rack-20-metres-white/
+    fit_note: "Live public-browser check 2026-10-31T11:06:35.776Z confirmed exact selected ASIN/title, White and 67 ft (20m), model 403385, matching GTIN, in-stock status and enabled purchase controls; seller/shipper Amazon.com. No shopping action or challenge. Screenshot reviewed: white winged folding floor rack. Selected Amazon size bullet explicitly states in-use LWH 49.6 x 23.2 x 35 inches. Folded generic size 2 D x 23.2 W x 38.6 H inches agrees with brand model 403385 dimensions 5 x 59 x 98 cm for its slim stored form. Brand confirms 20m drying length, adjustable wings and six hanger hooks. Do not promise two washer loads or compact open footprint. Omit conflicting load limits, stainless-steel guarantee and weatherproofness. Brand PDF could not be fetched (502 and certificate-validation failure); no PDF-verification claim or security bypass. Exclude HangOn winged-rack colors, drying-length variants, packs, alternate ASINs and minor revisions from future novelty."
+  - asin: B000JFXEEA
+    name: "Leifheit Pegasus Bath 110 Bathtub Drying Rack"
+    version: "One blue/white V-shaped bathtub rack, model 81540; Amazon Pegasus V 110, 11m drying-space selection; EAN 4006501815408"
+    first_published: 2026-10-31
+    batch: "scheduled-2026-10-31-0600-America-Chicago"
+    guide: /articles/compact-drying-rack.html
+    anchor: leifheit-bath-pick
+    affiliate_url: https://www.amazon.com/dp/B000JFXEEA/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B000JFXEEA
+    manufacturer_source: https://www.leifheit.com/en-en/standing-dryers/16412/bathub-dryer-pegasus-bath-110/81540
+    fit_note: "Live public-browser check 2026-10-31T11:06:37.739Z confirmed exact selected ASIN/title, model 81540, 11m version, matching EAN, in-stock status and enabled purchase controls; seller/shipper displayed as Express Shipping with star characters in its seller name, not an independently verified rating. No shopping action or challenge. Screenshot reviewed: blue/white V-shaped bathtub rack. Current Leifheit model 81540 page confirms width 67 cm, 11m drying length, 12 locking positions, flat-on-tub option and no installation. Width is not a guarantee of fit to every tub; advise checking rim support, fittings and locked position. Omit Amazon generic 69 x 11 x 66 cm because other catalog data describes those as package dimensions; no open or folded footprint inferred. Omit load-rating, universal-fit and rustproofness guarantees. Exclude Pegasus Bath/V 110 colors, sizes, packs, alternate ASINs and minor revisions from future novelty."
+  - asin: B007UTPAO0
+    name: "Whitmor Clip & Dry Hanger with 26 Clips, Blue"
+    version: "One blue 26-clip hanging frame, model 6171-844; UPC 038861030157; also called Clip and Drip"
+    first_published: 2026-10-31
+    batch: "scheduled-2026-10-31-0600-America-Chicago"
+    guide: /articles/compact-drying-rack.html
+    anchor: whitmor-clip-pick
+    affiliate_url: https://www.amazon.com/dp/B007UTPAO0/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B007UTPAO0
+    specification_source: https://www.amazon.com/dp/B0001E839U
+    fit_note: "Live public-browser check 2026-10-31T11:07:01.973Z confirmed selected ASIN B007UTPAO0, title, one-pack, model 6171-844, UPC 038861030157, in-stock status and enabled purchase controls; seller/shipper Homestead Supply & More. No shopping action or challenge. Screenshot reviewed: blue rectangular clip frame, suspension chains and blue hook. Separate public check of B0001E839U at 2026-10-31T11:08:14.080Z found the same exact model 6171-844 and matching UPC/GTIN with 26 clips, adjustable hanging hook and collapsible frame. That alternate listing had new seller buying options, opened read-only; it is a source, not a fourth recommendation. Dimensions conflict between listings (18.5 x 11.6 label versus 11.81 x 15.16 x 15.75), so article uses verified hanging requirements and no exact size. Omit erroneous floor-mount/freestanding fields, support load ratings, rustproofness and hands-on claims. Not a dry-flat surface. Exclude all Whitmor 6171-844 Clip and Drip/Clip & Dry colors, packs, minor revisions and alternate ASINs, especially B0001E839U, from future novelty."
