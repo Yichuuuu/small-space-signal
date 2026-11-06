@@ -2767,3 +2767,39 @@ products:
     source_url: https://www.amazon.com/dp/B00004Z5QI
     manufacturer_source: https://apps.fellowes.com/promos/govt/inner_links/office/sell_sheets/2016%20Full%20Line%20Ergo%20Brochure_low.pdf
     fit_note: "Exact ASIN, model, single-unit selection and purchase controls confirmed 2026-11-05T20:54:11.620Z. Amazon lists 11.63 W x 6 D x 9.63 H inches, folding easel and letter/A4 ring binder compatibility. The Fellowes Booklift brochure identifies model 21100, two page clips, nine positions and a 10-pound limit. No exact folded thickness is claimed. Prior model 21106 is a different sheet holder. Exclude Booklift color and pack variants, including metallic and multiple-unit offers."
+  - asin: B08V53ZRXH
+    name: "Big Fudge Wooden Vinyl Record Holder Stand, Sapele"
+    model: "BFRDS"
+    version: "Single sapele wood base with two metal rods, UPC 850020702343"
+    first_published: 2026-11-06
+    batch: "scheduled-2026-11-06-0600-America-Chicago"
+    guide: /articles/vinyl-record-storage-small-living-room.html
+    anchor: big-fudge-stand
+    affiliate_url: https://www.amazon.com/dp/B08V53ZRXH/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B08V53ZRXH
+    manufacturer_source: https://bigfudgevinyl.com/products/big-fudge-wooden-record-holder-stand-now-playing-vinyl-record-stand-and-display-stand-record-storage-for-special-lp-albums-sapele-wood-rack-easel-stand-fits-regular-vinyl-or-gatefold-album
+    fit_note: "Public Amazon page checked 2026-11-06T19:28:39.016Z. Selected ASIN, Sapele finish, model and UPC confirmed with an available purchase option. Amazon features and Big Fudge agree on the 8 x 3.75 in base, 0.625 in groove and 8.75 in assembled height. Treat the beech version and other finishes of this stand as the same model."
+  - asin: B07YT4XFBS
+    name: "Crosley Record Storage Crate, Natural"
+    model: "AC1004A-NA"
+    version: "One natural-finish crate, Amazon selection Natural 2, UPC 710244236539"
+    first_published: 2026-11-06
+    batch: "scheduled-2026-11-06-0600-America-Chicago"
+    guide: /articles/vinyl-record-storage-small-living-room.html
+    anchor: crosley-crate
+    affiliate_url: https://www.amazon.com/dp/B07YT4XFBS/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B07YT4XFBS
+    manufacturer_source: https://www.crosleyradio.com/products/record-storage-crate-ac1004a
+    fit_note: "Public Amazon page checked 2026-11-06T19:30:07.695Z. Selected single crate, model, UPC and available Amazon.com offer confirmed. This listing and Crosley agree on an 18 x 13.63 in footprint, 9.5 in empty height and capacity up to 75 albums. B015R3OJJW lists the same model with conflicting dimensions and is an alternate ASIN, not another recommendation. Exclude AC1004A finishes, designs and multipacks."
+  - asin: B075YKDWZV
+    name: "Victrola Collector Record Storage Case, Black"
+    model: "VSC-20-BLK"
+    version: "Original Collector, black single case, UPC 816203017826"
+    first_published: 2026-11-06
+    batch: "scheduled-2026-11-06-0600-America-Chicago"
+    guide: /articles/vinyl-record-storage-small-living-room.html
+    anchor: victrola-collector
+    affiliate_url: https://www.amazon.com/dp/B075YKDWZV/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B075YKDWZV
+    manufacturer_source: https://www.victrola.com/collections/all-victrola-products/products/victrola-storage-case-for-vinyl-turntable-records
+    fit_note: "Public Amazon page checked 2026-11-06T19:28:43.867Z. Exact black original Collector ASIN, model, UPC and available Buy New offer from Amazon.com confirmed. The brand gives 13 x 6 x 14 in, and Amazon confirms the same three measurements in a different order. Selected listing supports 7, 10 and 12 in discs. Use about 30 records because advertised capacity varies with sleeve thickness. Exclude all original VSC-20 colors and patterns."
