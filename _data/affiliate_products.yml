@@ -2803,3 +2803,39 @@ products:
     source_url: https://www.amazon.com/dp/B075YKDWZV
     manufacturer_source: https://www.victrola.com/collections/all-victrola-products/products/victrola-storage-case-for-vinyl-turntable-records
     fit_note: "Public Amazon page checked 2026-11-06T19:28:43.867Z. Exact black original Collector ASIN, model, UPC and available Buy New offer from Amazon.com confirmed. The brand gives 13 x 6 x 14 in, and Amazon confirms the same three measurements in a different order. Selected listing supports 7, 10 and 12 in discs. Use about 30 records because advertised capacity varies with sleeve thickness. Exclude all original VSC-20 colors and patterns."
+  - asin: B0000AUR24
+    name: "Itoya Original Art ProFolio 4 x 6 Photo Album"
+    model: "IA-12-4"
+    version: "One black original presentation book, 4 x 6 in print size, UPC 075633906449"
+    first_published: 2026-11-06
+    batch: "scheduled-2026-11-06-1800-America-Chicago"
+    guide: /articles/photo-storage-small-apartment.html
+    anchor: itoya-profolio
+    affiliate_url: https://www.amazon.com/dp/B0000AUR24/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B0000AUR24
+    manufacturer_source: https://itoya.com/products/presentation-book-portfolios/the-original-art-profolio/
+    fit_note: "Public Amazon detail page checked 2026-11-07T00:00:40.376Z. Selected ASIN, model IA-12-4, UPC, single-book count and an available offer confirmed. Itoya identifies the 4 x 6 in print format, black backing sheets, top-loading sleeves and 24 sleeves for 48 views. Print size is not the book's outside dimensions. Exclude bundles and finish variants of the same book."
+  - asin: B010RAT0TE
+    name: "IRIS USA 5 x 7 Photo Keeper with Six Inner Cases"
+    model: "215586"
+    version: "One clear carrier with six removable 5 x 7 in cases, UPC 762016451060"
+    first_published: 2026-11-06
+    batch: "scheduled-2026-11-06-1800-America-Chicago"
+    guide: /articles/photo-storage-small-apartment.html
+    anchor: iris-photo-keeper
+    affiliate_url: https://www.amazon.com/dp/B010RAT0TE/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B010RAT0TE
+    manufacturer_source: https://www.irisusainc.com/products/photo-keeper-5-x-7-6-case
+    fit_note: "Public Amazon detail page checked 2026-11-07T00:00:43.003Z. Selected ASIN, clear six-case style, model, UPC and available Buy New offer confirmed. Model 215586 takes 5 x 7 in prints. IRIS lists the outer carrier at 8.62 x 8.43 x 6.56 in, agreeing with the selected Amazon feature bullets to rounding. The Amazon attributes table instead gives 6.26 in height. The guide rounds the manufacturer dimensions to 8.6 x 8.4 x 6.6 in. Exclude other colors, packs or alternate listings of this keeper."
+  - asin: B000P187PY
+    name: "Pioneer Photo Albums Photo Storage Box, Black"
+    model: "B-1BLK"
+    version: "One black classic B-1 fiberboard box with lid, metal ID holder and index cards"
+    first_published: 2026-11-06
+    batch: "scheduled-2026-11-06-1800-America-Chicago"
+    guide: /articles/photo-storage-small-apartment.html
+    anchor: pioneer-photo-box
+    affiliate_url: https://www.amazon.com/dp/B000P187PY/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B000P187PY
+    specification_source: https://www.bhphotovideo.com/c/product/386938-REG/Pioneer_Photo_Albums_B1BLK_Photo_Video_Storage_Box_Black.html/specs
+    fit_note: "Public Amazon detail page checked 2026-11-07T00:00:45.347Z. Selected ASIN, black single box, model and available offer sold by Pioneer Photo Albums confirmed. The seller's description and B&H agree on prints up to 4 x 7 in, the lid, index dividers and 4.5 in box height. Outside length and width differ across listings, so 12 x 8 in is an explicitly labeled shelf template, not a product dimension. No exact divider count claimed. Exclude other B-1 finishes, prints and multipacks."
