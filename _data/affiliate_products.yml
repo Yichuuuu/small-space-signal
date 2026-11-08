@@ -2839,3 +2839,41 @@ products:
     source_url: https://www.amazon.com/dp/B000P187PY
     specification_source: https://www.bhphotovideo.com/c/product/386938-REG/Pioneer_Photo_Albums_B1BLK_Photo_Video_Storage_Box_Black.html/specs
     fit_note: "Public Amazon detail page checked 2026-11-07T00:00:45.347Z. Selected ASIN, black single box, model and available offer sold by Pioneer Photo Albums confirmed. The seller's description and B&H agree on prints up to 4 x 7 in, the lid, index dividers and 4.5 in box height. Outside length and width differ across listings, so 12 x 8 in is an explicitly labeled shelf template, not a product dimension. No exact divider count claimed. Exclude other B-1 finishes, prints and multipacks."
+  - asin: B0DB7QC615
+    name: "Feedback Sports RAKK 2.0 Bicycle Floor Stand"
+    model: "RAKK 2.0, manufacturer item 17700"
+    version: "Standard black single-bike stand, Amazon part FA003476012"
+    first_published: 2026-11-08
+    batch: "scheduled-2026-11-08-0600-America-Chicago"
+    guide: /articles/no-drill-bike-storage-small-apartment.html
+    anchor: rakk-floor-stand
+    affiliate_url: https://www.amazon.com/dp/B0DB7QC615/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B0DB7QC615
+    manufacturer_source: https://feedbacksports.com/products/rakk-2-0
+    fit_note: "Amazon selected model RAKK 2.0, one black unit, sold by Feedback Sports. Tagged URL opened at 2026-11-08T21:50:10.310Z with matching ASIN and tag and enabled purchase controls. Manufacturer confirms a folding arm, front or rear tire entry, 23 mm to 4.5 in tire width for adult wheel sizes and a 75 lb bike limit. The guide addresses 26 to 29 in wheels. Exclude alternate listings, bundles and finishes of the standard RAKK 2.0."
+  - asin: B07N7FMTZV
+    name: "Minoura DS-2200 Two-Way Bike Storage Stand, Black"
+    model: "DS-2200, 420-5200-01"
+    version: "One black two-position stand for a standard bicycle, UPC 181450226230"
+    first_published: 2026-11-08
+    batch: "scheduled-2026-11-08-0600-America-Chicago"
+    guide: /articles/no-drill-bike-storage-small-apartment.html
+    anchor: minoura-upright
+    affiliate_url: https://www.amazon.com/dp/B07N7FMTZV/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B07N7FMTZV
+    manufacturer_source: https://en.minoura.jp/product/ds-2200/
+    specification_source: https://en.minoura.jp/manual/ds-2200-eng.pdf
+    fit_note: "Amazon title, selected ASIN, black model 420-5200-01 and UPC confirmed. Tagged URL opened at 2026-11-08T21:50:12.377Z with the matching ASIN, tag and enabled purchase controls. Minoura gives a 550 x 700 mm setup footprint and 80 mm maximum tire width. English product page and manual establish the level-floor requirement, rear wheel in the lower supports, upper front-wheel hook, fender caveat and excluded bike types. Exclude DS-2200 color variants and alternate listings."
+  - asin: B003O7P6LO
+    name: "Feedback Sports Velo Cache Two-Bike Storage Tower, Black"
+    model: "13984"
+    version: "Black freestanding three-leg tower with two pairs of cradle arms"
+    first_published: 2026-11-08
+    batch: "scheduled-2026-11-08-0600-America-Chicago"
+    guide: /articles/no-drill-bike-storage-small-apartment.html
+    anchor: velo-cache-tower
+    affiliate_url: https://www.amazon.com/dp/B003O7P6LO/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B003O7P6LO
+    manufacturer_source: https://feedbacksports.com/products/velo-cache-2-bike-column-black-1
+    specification_source: https://support.feedbacksports.com/support/solutions/articles/47001114599-dimensions-of-the-velo-cache-2-and-4-bike
+    fit_note: "Amazon selected black two-bike tower, model 13984, with an available Buy New offer. Tagged URL opened at 2026-11-08T21:50:14.649Z with matching ASIN and tag and enabled purchase controls. Manufacturer support gives the assembled two-bike rack as 36 in wide, 24 in deep and 84.5 in high. Manufacturer rates each pair of arms for 40 lb, 80 lb total as supplied. The 160 lb rating requires a separate four-bike expansion. Exclude finishes, accessory packs and alternate listings of this tower."
