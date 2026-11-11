@@ -2988,3 +2988,41 @@ products:
     source_url: https://www.amazon.com/dp/B01M6ZFU02
     manufacturer_source: https://ubbiworld.com/products/bath-toy-drying-bin
     fit_note: "Tagged US offer checked 2026-11-10T12:03:23.662Z. Amazon retained the tag and selected ASIN while adding th=1. The listing showed an available Amazon.com offer, model 10510-A and manufacturer part 10510. Ubbi matches the gray SKU and UPC and lists 9.5 W x 7 D x 10.5 H in. Amazon lists 9.38 W x 7.25 D x 10.5 H in. The suggested 10 x 8 in paper fit check covers both footprints. Exclude other colors and bundles of this bin."
+  - asin: B00J0823EO
+    name: "Hercules EZPack Folding Guitar Stand"
+    model: "GS200B"
+    version: "One Original Version folding floor stand for an acoustic or electric guitar"
+    first_published: 2026-11-10
+    batch: "scheduled-2026-11-10-1800-America-Chicago"
+    guide: /articles/guitar-storage-small-apartment-no-drill.html
+    anchor: hercules-ezpack-gs200b
+    affiliate_url: https://www.amazon.com/dp/B00J0823EO/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B00J0823EO
+    manufacturer_source: https://www.herculesstands.com/products/fretted-and-bowed-instrument/guitar/single-stands/gs200b
+    specification_source: https://herculesstands.com/files/file_pool/1/0p323282662217647287/hercules%20catalog%202025-2026_download.pdf
+    fit_note: "Tagged Amazon.com offer checked 2026-11-10T23:59:45.402Z. ASIN, model, available Instrumentpro offer and purchase controls confirmed. Hercules gives the open base as 400 x 280 mm, and its model-specific catalog gives 260 x 110 x 43 mm folded. Article uses the manufacturer's open and folded dimensions. Count alternate finishes, packs and listings of the GS200B as the same stand."
+  - asin: B00FLXNM9M
+    name: "D'Addario Guitar Dock"
+    model: "PW-GD-01"
+    version: "One adjustable clamp-on neck rest, Dock variant, UPC 019954993429"
+    first_published: 2026-11-10
+    batch: "scheduled-2026-11-10-1800-America-Chicago"
+    guide: /articles/guitar-storage-small-apartment-no-drill.html
+    anchor: daddario-guitar-dock
+    affiliate_url: https://www.amazon.com/dp/B00FLXNM9M/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B00FLXNM9M
+    manufacturer_source: https://www.daddario.com/products/guitar-dock
+    fit_note: "Tagged Amazon.com offer checked 2026-11-10T23:59:47.936Z. Amazon kept the ASIN and tag while appending th=1. Model, UPC, seller Amazon.com and available purchase options matched. D'Addario specifies a flat mounting edge and a rotating clamp and states that the dock does not carry the guitar's weight. Count Planet Waves and D'Addario listings of this dock as the same product."
+  - asin: B002NPCISC
+    name: "The Guitar Hanger Original Closet"
+    model: "1001"
+    version: "One model 1001 swivel closet-rod hanger, manufacturer's SKU 094922199713"
+    first_published: 2026-11-10
+    batch: "scheduled-2026-11-10-1800-America-Chicago"
+    guide: /articles/guitar-storage-small-apartment-no-drill.html
+    anchor: original-closet-guitar-hanger
+    affiliate_url: https://www.amazon.com/dp/B002NPCISC/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B002NPCISC
+    manufacturer_source: https://www.theguitarhanger.com/product-page/the-guitar-hanger-1001
+    specification_source: https://www.theguitarhanger.com/copy-of-home
+    fit_note: "Tagged Amazon.com offer checked 2026-11-11T00:01:12.898Z. ASIN, model 1001, US storefront offer sold by Amazon Global Store UK and available purchase controls confirmed. Amazon lists 11.5 x 4 x 4 in for the hanger. The brand confirms closet-rod use, model, SKU and swiveling yoke. The dimensions describe the hanger and do not specify a maximum rod or neck width. Count the same Original Closet hanger under alternate listings or multipacks only once."
