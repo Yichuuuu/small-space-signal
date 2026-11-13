@@ -3063,3 +3063,41 @@ products:
     source_url: https://www.amazon.com/dp/B01D4IGCKG
     manufacturer_source: https://www.gaiam.com/collections/yoga-mats/products/05-62214?variant=32895087553
     fit_note: "Tagged Amazon.com page checked 2026-11-11T12:00:48.648Z. Available Amazon.com offer, selected ASIN, model and UPC match the brand's Blue Sundial variant. Both sources give 68 x 24 in open, 2 mm thick, and a 10 x 12 in folded footprint. Only the folded footprint is specified. Amazon and Gaiam give different weights, so the guide omits the weight of this mat. Count other prints of this folding mat as the same product."
+  - asin: B00024JRC6
+    name: "Buddeez Bread Buddy Sandwich Bread Dispenser"
+    model: "00001"
+    version: "One standard clear dispenser with a white lid, UPC 747363000017"
+    first_published: 2026-11-12
+    batch: "scheduled-2026-11-12-1800-America-Chicago"
+    guide: /articles/bread-storage-small-kitchen.html
+    anchor: buddeez-bread-buddy
+    affiliate_url: https://www.amazon.com/dp/B00024JRC6/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B00024JRC6
+    manufacturer_source: https://www.buddeez.com/dispensers/the-bread-buddy/
+    fit_note: "Tagged Amazon.com page checked 2026-11-13T05:21:19.970Z. ASIN, white lid, single standard dispenser, UPC and available BIGFLY offer confirmed. Buddeez identifies the product as item 00001. Its dimensions and the Amazon feature text agree on 5.25 x 5.25 x 13.5 in. The original wrapper folds over the rim and slides down to raise the loaf. Other colors and packs of this dispenser count as the same design."
+  - asin: B00026LJLQ
+    name: "Brabantia Roll Top Bread Box, Medium, Matt Steel"
+    model: "348907"
+    version: "One Medium roll-top box in Matt Steel, EAN 8710755348907"
+    first_published: 2026-11-12
+    batch: "scheduled-2026-11-12-1800-America-Chicago"
+    guide: /articles/bread-storage-small-kitchen.html
+    anchor: brabantia-medium-roll-top
+    affiliate_url: https://www.amazon.com/dp/B00026LJLQ/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B00026LJLQ
+    manufacturer_source: https://www.brabantia.com/us/roll-top-bread-box-medium-matt-steel/
+    specification_source: https://sales.brabantia.com/Articles/348907.pdf
+    fit_note: "Tagged listing checked 2026-11-13T05:21:25.169Z. Amazon.com offer and enabled purchase controls matched ASIN, Medium size and Matt Steel finish. The Amazon GTIN 08710755348907 matches Brabantia's EAN and item 348907. Brand dimensions are 316 mm wide, 265 mm deep and 173 mm high. The lid rolls into the box. Alternate finishes of the Medium box count as the same product."
+  - asin: B09MH525JT
+    name: "(re)zip Reusable Roll Top Bread and Bagel Bag"
+    model: "BA341-BPCLR"
+    version: "Single clear 39-cup bread bag with black closure, UPC 812613022054"
+    first_published: 2026-11-12
+    batch: "scheduled-2026-11-12-1800-America-Chicago"
+    guide: /articles/bread-storage-small-kitchen.html
+    anchor: rezip-bread-bag
+    affiliate_url: https://www.amazon.com/dp/B09MH525JT/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B09MH525JT
+    manufacturer_source: https://rezip.com/products/reusable-roll-top-bread-bag
+    specification_source: https://rezip.com/pages/faqs
+    fit_note: "Tagged Amazon.com page checked 2026-11-13T05:21:28.093Z. ASIN and available offer sold by Rezip confirmed. Amazon model name and UPC match the brand's roll-top bag. Both sources specify 39 cups, 8 x 7 x 16 in and freezer use. The brand directs the user to seal the top and roll it three times. Count other finishes and packs of this bag only once."
