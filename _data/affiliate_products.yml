@@ -3211,3 +3211,39 @@ products:
     source_url: https://www.amazon.com/dp/B01JZXO1AC
     specification_source: https://www.homedepot.com/p/300259681
     fit_note: "Tagged Amazon.com offer checked 2026-11-15T00:23:09.725Z. Selected ASIN, red 64-count variant, manufacturer part number 9002-RED, UPC and available Amazon.com offer confirmed. Use the item specification of 11.81 in on each side, also listed for 9002-RED by Home Depot. The listing title rounds this to 12 in. The grid is for up to 64 balls up to 2.25 in in diameter. Treat trim colors of this cube as one product."
+  - asin: B018EOPU8K
+    name: "Yarn Valet Small Yarn Bowl"
+    model: "57101"
+    version: "Small open bowl, mint and creme, Amazon.com UPC 089516571013"
+    first_published: 2026-11-16
+    batch: "scheduled-2026-11-16-1800-America-Chicago"
+    guide: /articles/yarn-storage-small-living-room.html
+    anchor: yarn-valet-bowl
+    affiliate_url: https://www.amazon.com/dp/B018EOPU8K/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B018EOPU8K
+    manufacturer_source: https://prymamericas.com/products/57101
+    fit_note: "Tagged US Amazon listing checked 2026-11-17T05:29:14.735Z. The selected ASIN, small size, model 57101 and available Amazon.com offer matched. Prym specifies a 6 in rim, 4 in base and 3 in height with a rubberized ring and an open upper yarn guide. The US listing independently gives 6 x 6 x 3 in. Count other finishes of the same bowl only once."
+  - asin: B01N9EPLV7
+    name: "ArtBin Yarn Drum Knitting and Crochet Project Tote"
+    model: "6804SA"
+    version: "Regular gray-print poly-canvas drum with lid feed opening, UPC 071617049560"
+    first_published: 2026-11-16
+    batch: "scheduled-2026-11-16-1800-America-Chicago"
+    guide: /articles/yarn-storage-small-living-room.html
+    anchor: artbin-yarn-drum
+    affiliate_url: https://www.amazon.com/dp/B01N9EPLV7/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B01N9EPLV7
+    manufacturer_source: https://flambeau.com/wp-content/uploads/2024/11/2022-artbin-craft-catalog-9717ab-low-res.pdf
+    fit_note: "Tagged US Amazon listing checked 2026-11-17T05:25:22.999Z. Selected ASIN, regular gray print, model 6804SA and available MidwestHomeSupply offer confirmed. The manufacturer's Craft Buyer's Guide, printed page 51, lists the patterned drum as 12 in diameter and 12.75 in tall with a lid feed and capacity for up to eight standard skeins. Amazon lists an overall envelope of 12.75 x 12 x 12.75 in. The article allows about 13 in square on a shelf and notes how a growing project uses space. Count other prints and colors of this drum together."
+  - asin: B01NCIXYBH
+    name: "ArtBin Hook and Needle Folio"
+    model: "6875AG"
+    version: "Gray and black zippered hook and needle organizer, UPC 071617049607"
+    first_published: 2026-11-16
+    batch: "scheduled-2026-11-16-1800-America-Chicago"
+    guide: /articles/yarn-storage-small-living-room.html
+    anchor: artbin-hook-needle-folio
+    affiliate_url: https://www.amazon.com/dp/B01NCIXYBH/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B01NCIXYBH
+    manufacturer_source: https://flambeau.com/wp-content/uploads/2024/11/2022-artbin-craft-catalog-9717ab-low-res.pdf
+    fit_note: "Tagged US Amazon listing checked 2026-11-17T05:25:25.808Z. Selected ASIN, model 6875AG, gray/black variant and available MidwestHomeSupply offer confirmed. ArtBin's Craft Buyer's Guide, printed page 51, specifies 15.125 x 6.625 x 1.375 in, stitched elastic pockets and two envelope pockets. Amazon gives 15.13 x 6.63 x 1.38 in and identifies the larger pockets for circular needles. The guide uses the closed exterior dimensions only."
