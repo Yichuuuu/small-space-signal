@@ -3319,3 +3319,42 @@ products:
     source_url: https://www.amazon.com/dp/B002SN1754
     manufacturer_source: https://www.bcwsupplies.com/hinged-box-100-cards
     fit_note: "Tagged US Amazon page checked 2026-11-19T02:00:22.254Z. Selected ASIN, 1-HB100, UPC 722626944864 and an available Wizard Coin Supply offer confirmed. The model-specific BCW product page specifies exterior 2 11/16 x 3 11/16 x 1 13/16 in and interior 2 9/16 x 3 9/16 x 1 11/16 in. Use these first-party measurements, which also match the seller's own product page, in preference to the inconsistent Amazon dimension attribute. Capacity is up to 100 standard cards, with actual fit dependent on sleeves and thickness. The guide attributes dimensions to BCW and requires checking the sleeved deck."
+
+  - asin: B072JV8B63
+    name: "LIHIT LAB Book-Type Zipper Pen Case"
+    model: "A-7551-103"
+    version: "Standard-size Coral polyester case; A-7551 family"
+    first_published: 2026-11-19
+    batch: "scheduled-2026-11-19-0600-America-Chicago"
+    guide: "/articles/art-supply-storage-small-apartment.html"
+    anchor: "lihit-lab-book-pen-case"
+    affiliate_url: "https://www.amazon.com/dp/B072JV8B63/ref=nosim?tag=smallspace09b-20"
+    source_url: "https://www.amazon.com/dp/B072JV8B63"
+    manufacturer_source: "https://global-store.lihit-lab.com/products/zipper-pencil-case"
+    fit_note: "Tagged US Amazon page checked 2026-11-19T12:06:07.863Z: selected ASIN, Coral A-7551-103, enabled purchase controls and available LIHIT LAB.,INC. offer. Amazon dimensions 7.9 x 4.7 x 2 in match the standard A-7551 manufacturer's W200 x D50 x H120 mm in a different orientation. Brand capacity approximately 14 pens, varying by pen shape; opens flat, polyester with mesh pockets. Brand description distinguishes gray lining for 103-135 models. Other colors of A-7551 and closely related Double/Triple cases are the same product family for novelty; no color-only future picks."
+
+  - asin: B000GJ76SE
+    name: "ArtBin Brush Box with Foam Inserts"
+    model: "KW903"
+    version: "Clear single brush box; UPC 071617682408"
+    first_published: 2026-11-19
+    batch: "scheduled-2026-11-19-0600-America-Chicago"
+    guide: "/articles/art-supply-storage-small-apartment.html"
+    anchor: "artbin-brush-box"
+    affiliate_url: "https://www.amazon.com/dp/B000GJ76SE/ref=nosim?tag=smallspace09b-20"
+    source_url: "https://www.amazon.com/dp/B000GJ76SE"
+    manufacturer_source: "https://flambeau.com/wp-content/uploads/2024/11/2022-artbin-full-art-catalog-9716ab-lowres.pdf"
+    fit_note: "Tagged US Amazon page checked 2026-11-19T12:02:31.206Z: selected ASIN, model KW903, UPC, foam-holder image and active Amazon.com offer verified. Main Amazon title erroneously says Essentials 12 x 12 One-Compartment Craft Box; subtitle, feature bullets, item-type field, model and image all identify the narrow brush holder. Guide explicitly discloses this inconsistency and directs readers to KW903. ArtBin official catalog printed page 17 and live brand shop https://artbin.shop/products/brush-box-kw903 agree 14 x 6 x 1.25 in, foam inserts and vents; catalog capacity up to 20 brushes. Exterior size only; no guarantee for long handles, drying time or leak containment. Colors, packs and alternate listings of KW903 count together. Distinct from previously published Super Satchel Slim 9100AB."
+
+  - asin: B000PD4I3C
+    name: "ArtBin Large Solutions Box with Dividers"
+    model: "5004AB"
+    version: "Clear single box with four fixed compartments and 20 removable dividers; UPC 071617050023"
+    first_published: 2026-11-19
+    batch: "scheduled-2026-11-19-0600-America-Chicago"
+    guide: "/articles/art-supply-storage-small-apartment.html"
+    anchor: "artbin-large-solutions-box"
+    affiliate_url: "https://www.amazon.com/dp/B000PD4I3C/ref=nosim?tag=smallspace09b-20"
+    source_url: "https://www.amazon.com/dp/B000PD4I3C"
+    manufacturer_source: "https://flambeau.com/wp-content/uploads/2024/11/2022-artbin-full-art-catalog-9716ab-lowres.pdf"
+    fit_note: "Tagged US Amazon page checked 2026-11-19T12:02:51.420Z: selected ASIN, 5004AB item-type field, UPC and active Amazon.com offer. Amazon feature bullets and ArtBin official catalog printed page 21 agree on 14.125 x 9 x 2 in exterior, four fixed compartments and 20 removable dividers. Amazon dimension table presents the same rounded measurements in another orientation. Clear plastic divided case for small art supplies; internal cell dimensions and liquid containment are not claimed. Other colors, packs and alternate listings count as the same product; related Solutions size variants excluded from future novelty. Different design from the undivided Super Satchel Slim 9100AB."
