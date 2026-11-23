@@ -3397,3 +3397,41 @@ products:
     source_url: https://www.amazon.com/dp/B0GGJHRXWM
     manufacturer_source: https://theyamazakihome.com/products/plate-toilet-paper-stocker
     fit_note: "Tagged US Amazon page checked 2026-11-20T00:08:01.339Z: selected ASIN and model 10809, white steel variant, active Yamazaki Home offer shipped by Amazon, delivery estimate and enabled Add to Cart confirmed. No literal In Stock badge was shown, so no such badge claimed. Brand live product JSON identifies SKU 10809 and barcode; both primary sources specify 4.92 x 12.99 x 18.9 in, 8-12 standard rolls, maximum roll diameter 5.1 in, top refill lid and gravity-fed lower opening. Dimensions are external and roll-width compatibility is not guaranteed. Older Plate stocker 2294 / B00N1G23MS and other same-design revisions, colors or packs count together; distinct from the previously recommended open Tosca 2346 stocker and Tower 1490 rolling bathroom organizer."
+
+  - asin: B0CCJ92ZCK
+    name: "Fintie Plush Lined Eyeglasses Holder with Magnetic Base"
+    model: "AGSA077"
+    version: "Agate Hexagons; single holder and detachable magnetic base"
+    first_published: 2026-11-22
+    batch: "scheduled-2026-11-22-1800-America-Chicago"
+    guide: /articles/eyeglass-sunglasses-storage-small-spaces.html
+    anchor: fintie-agsa077
+    affiliate_url: https://www.amazon.com/dp/B0CCJ92ZCK/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B0CCJ92ZCK
+    manufacturer_source: https://www.fintie.com/products/fintie-plush-lined-eyeglasses-holder-with-magnetic-base-1
+    dimension_source: https://m.media-amazon.com/images/I/71+snJQm2SL._AC_SL1500_.jpg
+    fit_note: "Tagged Amazon.com page checked 2026-11-23T02:22:56.827Z; selected ASIN B0CCJ92ZCK, Agate Hexagons and AGSA077 matched brand variant. Available Fintie offer shipped by Amazon confirmed. Selected-variant diagram shows base 113 x 86 mm and height 145 mm, approximately 4.45 x 3.39 x 5.71 in; the unrelated parent detail block lists 2.8 x 2.8 x 6.7 in and parent ASIN B07H5G8D7R, excluded and discrepancy disclosed. Magnetic attachment joins holder to its base, not a wall mount. Exclude all finishes and listings of the single plush magnetic-base holder, including B01H2YOMSW (redirected here) and B06XBZ8C82."
+  - asin: B08T6K59L9
+    name: "MyGift Five-Tier Sunglasses Stand with Round Wood Base"
+    model: "HOM2595BLK"
+    version: "Black metal with round burnt-wood base; five tiers"
+    first_published: 2026-11-22
+    batch: "scheduled-2026-11-22-1800-America-Chicago"
+    guide: /articles/eyeglass-sunglasses-storage-small-spaces.html
+    anchor: mygift-hom2595blk
+    affiliate_url: https://www.amazon.com/dp/B08T6K59L9/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B08T6K59L9
+    manufacturer_source: https://www.mygift.com/products/matte-black-metal-eyeglass-display-w-brown-wood-base
+    fit_note: "Tagged Amazon.com page checked 2026-11-23T02:22:59.143Z; ASIN, HOM2595BLK, Black / Burnt Wood variant and available MyGift offer shipped by Amazon confirmed. Manufacturer SKU and Amazon bullets agree on approximate 16.3 in height x 6.5 in diameter, rung 6.2 W x 2.2 D in and 3.0 in vertical spacing; some assembly required. Loaded frames may project beyond base and oversized frames can reduce usable tiers. Exclude alternate finishes and listings of the same five-tier round wood-base design."
+  - asin: B0DQTJ157Y
+    name: "ProCase Hard Shell Four-Slot Sunglasses Organizer"
+    model: "PC-08366095; brand SKU EVA-MJH01-4Slot-Orangeblack"
+    version: "Orange four-slot case with adjustable hook-and-loop dividers"
+    first_published: 2026-11-22
+    batch: "scheduled-2026-11-22-1800-America-Chicago"
+    guide: /articles/eyeglass-sunglasses-storage-small-spaces.html
+    anchor: procase-four-slot
+    affiliate_url: https://www.amazon.com/dp/B0DQTJ157Y/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B0DQTJ157Y
+    manufacturer_source: https://procase.com/products/hard-shell-travel-sunglasses-organizer-procase
+    fit_note: "Tagged Amazon.com page checked 2026-11-23T02:20:29.622Z; selected ASIN, PC-08366095, Orange and 4 Slots verified with an available Tech Vendor offer shipped by Amazon. Brand product JSON maps Orange / 4 Slot barcode directly to B0DQTJ157Y. Amazon and brand agree on closed outside size 7.48 x 6.89 x 2.85 in (19 x 17.5 x 7.25 cm); EVA shell, zipper, soft lining and adjustable dividers. Exclude four/seven-slot family variants B0F47NSQFW, B0DQTPP1W6 and B0DQTBWQV4; distinct from already published PC-08363588 baseball-cap case."
