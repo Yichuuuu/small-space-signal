@@ -3587,3 +3587,40 @@ products:
     source_url: https://www.amazon.com/dp/B0D4XCYB2N
     manufacturer_source: https://store.lihit-lab.com/products/a-3580
     fit_note: "Checked 2026-11-25 America/Chicago (2026-11-26T05:49:05.240Z): selected Amazon ASIN, white A3580-0 model and one-piece count verified; enabled purchase offer sold by Southern Alps Market, shipped by Amazon. Manufacturer and Amazon bullets agree on body 142 W x 150 D x 212 H mm; brand maximum raised-stopper height 233 mm explains Amazon table 9.17 inch height. Brand recommends A4 portrait-size material, warns items 120 mm high or shorter cannot properly engage and items thinner than 8.6 mm stoppers may not stand straight; rubber feet and front insertion mechanism verified. Exclude other colors and A-3575/A-3577/A-3578 family size variants from future new-product recommendations. No hands-on testing."
+
+  - asin: B000W8AF2S
+    name: "OXO Good Grips SimplyTear Paper Towel Holder, Stainless Steel"
+    model: "1066736"
+    version: "Silver/brushed stainless steel; one freestanding holder"
+    first_published: 2026-11-26
+    batch: "scheduled-2026-11-26-0600-America-Chicago"
+    guide: /articles/paper-towel-holders-small-kitchens.html
+    anchor: oxo-simplytear
+    affiliate_url: https://www.amazon.com/dp/B000W8AF2S/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B000W8AF2S
+    manufacturer_source: https://www.oxo.com/oxo-good-grips-simplyteartm-paper-towel-holder.html
+    fit_note: "Checked 2026-11-26 at 2026-11-26T12:03:07.531Z: selected Amazon ASIN and model 1066736, UPC 719812014234, single silver holder verified; enabled purchase offer shipped and sold by Amazon.com, no challenge. Amazon bullets and OXO US specifications agree on 7 x 7 x 13 inches; spring-activated arm locks open for reloading, weighted stainless base and non-slip ring verified. OXO US page was readable through web browsing; separate direct HTTP request returned 403 and was not retried or bypassed. Exclude other colors, packs and SimplyTear family variants from future new-product recommendations. One-handed tear is manufacturer design intent, not a hands-on result."
+  - asin: B077SRLD9Z
+    name: "Yamazaki Home Tosca Magnetic Paper Towel Hanger, White"
+    model: "2567-P"
+    version: "Small paper-towel version; white steel with wooden bar; manufacturer SKU 2567"
+    first_published: 2026-11-26
+    batch: "scheduled-2026-11-26-0600-America-Chicago"
+    guide: /articles/paper-towel-holders-small-kitchens.html
+    anchor: yamazaki-tosca-magnetic
+    affiliate_url: https://www.amazon.com/dp/B077SRLD9Z/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B077SRLD9Z
+    manufacturer_source: https://theyamazakihome.com/products/tosca-magnetic-kitchen-towel-hanger
+    fit_note: "Checked 2026-11-26 at 2026-11-26T12:03:09.608Z: selected Amazon ASIN, model 2567-P, white Small option and GTIN 04903208025676 match brand SKU 2567/barcode 4903208025676. Enabled purchase offer shipped and sold by Amazon Germany, no challenge; article explicitly notes import seller and asks readers to check delivery/import terms. Brand US drawing visually verified: 12.6 inch wooden bar width, 3.5 inch depth, 2.4 inch height; Amazon feature bullets agree. Generic Amazon overview shows 3.35 inch depth; article uses stated US drawing dimensions, not weight or conflicting table. Brand FAQ limits rolls to about 6 inch diameter and magnetic surfaces; removable end rubber rings verified. Exclude color, pack and size variants of this Tosca magnetic hanger family. No hands-on testing."
+  - asin: B07NDGJR1X
+    name: "Umbra Squire Multi-Use Paper Towel Holder, Black"
+    model: "1005752-040"
+    version: "Black metal cabinet-door/wall/under-shelf design; one holder"
+    first_published: 2026-11-26
+    batch: "scheduled-2026-11-26-0600-America-Chicago"
+    guide: /articles/paper-towel-holders-small-kitchens.html
+    anchor: umbra-squire-cabinet
+    affiliate_url: https://www.amazon.com/dp/B07NDGJR1X/ref=nosim?tag=smallspace09b-20
+    source_url: https://www.amazon.com/dp/B07NDGJR1X
+    manufacturer_source: https://www.umbra.com/products/squire-wallmounted-paper-towel-holder
+    fit_note: "Checked 2026-11-26 at 2026-11-26T12:03:30.023Z: selected Amazon ASIN, black option, model 1005752-040, UPC 028295543170 and single count verified; enabled purchase offer shipped by Amazon, sold by Hour Loop, no challenge. Brand specification block and description list overall 12.65 x 6.6 x 4.75 inches; feature bullet uses rounded 12.75 x 6.5 x 4.75. Amazon generic overview incorrectly repeats 4.76 for all three axes; article uses brand specification block. Over-cabinet-door, wall and under-shelf use verified from brand; no maximum door thickness verified. Article requires hook, door-closing and loaded-roll clearance checks and does not promise drill-free wall/shelf mounting. Exclude other colors/packs of Multi-Use family, distinguish freestanding Squire. No hands-on testing."
